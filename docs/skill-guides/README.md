@@ -2,7 +2,7 @@
 
 # Scientific skill guides
 
-Explore **177 skills** through guides written for scientists. Each guide explains
+Explore **88 skills** through guides written for scientists. Each guide explains
 what the skill helps you do, what information it needs, what it produces, and how
 to interpret the results. You will also find an example research request, a workflow
 image, and links to setup and technical instructions.
@@ -17,151 +17,30 @@ Browse by area:
 ## Scientific Databases & Data Access
 
 - [Database Lookup](database-lookup.md)
-- [DepMap](depmap.md)
-- [Folklore Variant Evidence](folklore-variant-evidence.md)
-- [Imaging Data Commons](imaging-data-commons.md)
-- [PrimeKG](primekg.md)
-- [NCATS ARAX](ncats-arax.md)
-- [U.S. Treasury Fiscal Data](usfiscaldata.md)
 - [Ontology Term Resolution](ontology-term-resolution.md)
-- [Pathogen Variant Surveillance](pathogen-variant-surveillance.md)
 - [Hugging Science](hugging-science.md)
 
 ## Scientific Integrations
 
-### Laboratory Information Management Systems (LIMS) & R&D Platforms
-
-- [Benchling Integration](benchling-integration.md)
-
-### Cloud Platforms for Genomics & Biomedical Data
-
-- [DNAnexus Integration](dnanexus-integration.md)
-
-### Laboratory Automation
-
-- [Opentrons Integration](opentrons-integration.md)
-- [Ginkgo Cloud Lab](ginkgo-cloud-lab.md)
-
 ### Electronic Lab Notebooks (ELN)
 
-- [LabArchives Integration](labarchive-integration.md)
 - [Open Notebook](open-notebook.md)
 
 ### Workflow Platforms & Cloud Execution
 
-- [LatchBio Integration](latchbio-integration.md)
 - [Nextflow](nextflow.md)
-- [pacsomatic](pacsomatic.md)
-
-### Microscopy & Bio-image Data
-
-- [OMERO Integration](omero-integration.md)
-
-### Protocol Management & Sharing
-
-- [Protocols.io Integration](protocolsio-integration.md)
 
 ## Scientific Packages
 
 ### Bioinformatics & Genomics
 
-- [Primer Design](primer-design.md)
-- [MAGeCK](mageck.md)
-- [QIIME 2 Amplicon](qiime2-amplicon.md)
-- [AlphaGenome](alphagenome.md)
-- [AnnData](anndata.md)
-- [Arboreto](arboreto.md)
-- [Biopython](biopython.md)
-- [BioServices](bioservices.md)
-- [Bulk RNA-seq](bulk-rnaseq.md)
-- [Cellxgene Census](cellxgene-census.md)
-- [deepTools](deeptools.md)
-- [FlowIO](flowio.md)
-- [FlowKit](flowkit.md)
-- [gget](gget.md)
-- [Genomic Coordinates](genomic-coordinates.md)
-- [Genomic Intelligence](genomic-intelligence.md)
-- [geniml](geniml.md)
-- [Gtars](gtars.md)
-- [OneKGPd](onekgpd.md)
-- [Waypoint Bio](waypoint-bio.md)
-- [Polars-Bio](polars-bio.md)
-- [pysam](pysam.md)
-- [PyDESeq2](pydeseq2.md)
-- [Pathway Enrichment](pathway-enrichment.md)
-- [Scanpy](scanpy.md)
-- [scVelo](scvelo.md)
-- [scvi-tools](scvi-tools.md)
-- [scikit-bio](scikit-bio.md)
-- [TileDB-VCF](tiledbvcf.md)
 - [Zarr](zarr-python.md)
 
 ### Data Management & Infrastructure
 
 - [DataLad](datalad.md)
-- [LaminDB](lamindb.md)
 - [Modal](modal.md)
 - [Optimize for GPU](optimize-for-gpu.md)
-
-### Cheminformatics & Drug Discovery
-
-- [nmrglue](nmrglue.md)
-- [Datamol](datamol.md)
-- [DeepChem](deepchem.md)
-- [DiffDock](diffdock.md)
-- [MedChem](medchem.md)
-- [Molfeat](molfeat.md)
-- [PyTDC](pytdc.md)
-- [RDKit](rdkit.md)
-- [Rowan](rowan.md)
-- [TorchDrug](torchdrug.md)
-
-### Pharmacology & Pharmacometrics
-
-- [PK/PD Modelling](pkpd-modeling.md)
-
-### Preclinical Research & Animal Welfare
-
-- [RELSA Severity Assessment](relsa-severity-assessment.md)
-
-### Proteomics & Mass Spectrometry
-
-- [matchms](matchms.md)
-- [pyOpenMS](pyopenms.md)
-
-### Microscopy, Medical Imaging & Digital Pathology
-
-- [CellProfiler](cellprofiler.md)
-- [DeepSpot-M](deepspot-m.md)
-- [histolab](histolab.md)
-- [PathML](pathml.md)
-- [pydicom](pydicom.md)
-
-### Healthcare AI & Clinical Machine Learning
-
-- [PyHealth](pyhealth.md)
-
-### Clinical Documentation & Decision Support
-
-- [Clinical Decision Support](clinical-decision-support.md)
-- [Clinical Reports](clinical-reports.md)
-- [Treatment Plans](treatment-plans.md)
-
-### Neuroscience & Electrophysiology
-
-- [NWB Conversion](nwb-conversion.md)
-- [BIDS](bids.md)
-- [NeuroKit2](neurokit2.md)
-- [Neuropixels-Analysis](neuropixels-analysis.md)
-
-### Protein Engineering & Design
-
-- [RELION](relion.md)
-- [Adaptyv](adaptyv.md)
-- [ESM (Evolutionary Scale Modeling)](esm.md)
-- [Glycoengineering](glycoengineering.md)
-- [Molecular Dynamics](molecular-dynamics.md)
-- [Tamarind](tamarind.md)
 
 ### Systems Biology & Kinetic Modeling
 
@@ -204,8 +83,6 @@ Browse by area:
 
 - [Cantera](cantera.md)
 - [PyBaMM](pybamm.md)
-- [Lab Hardware CAD](lab-hardware-cad.md)
-- [Fictiv](fictiv.md)
 - [MATLAB/Octave](matlab.md)
 - [FluidSim](fluidsim.md)
 - [OpenPIV](openpiv.md)
@@ -224,11 +101,6 @@ Browse by area:
 - [Uncertainty & Units](uncertainty-and-units.md)
 - [Vaex](vaex.md)
 
-### Phylogenetics & Evolutionary Biology
-
-- [ETE Toolkit](etetoolkit.md)
-- [Phylogenetics](phylogenetics.md)
-
 ### Agent Frameworks
 
 - [Pi Agent](pi-agent.md)
@@ -245,7 +117,6 @@ Browse by area:
 - [Generate Image](generate-image.md)
 - [Infographics](infographics.md)
 - [LaTeX Posters](latex-posters.md)
-- [Market Research Reports](market-research-reports.md)
 - [PPTX Posters](pptx-posters.md)
 - [Scientific Schematics](scientific-schematics.md)
 - [Scientific Slides](scientific-slides.md)
@@ -257,31 +128,19 @@ Browse by area:
 - [LiteParse](liteparse.md)
 - [Markdown & Mermaid Writing](markdown-mermaid-writing.md)
 
-### Laboratory Automation & Equipment Control
-
-- [PyLabRobot](pylabrobot.md)
-
 ### Tool Discovery & Computational Resources
 
-- [Autoskill](autoskill.md)
 - [Get Available Resources](get-available-resources.md)
 
 ### Research Methodology & Proposal Writing
 
-- [Paperclip](paperclip.md)
 - [Paperzilla](paperzilla.md)
 - [Paper Lookup](paper-lookup.md)
 - [Research Grants](research-grants.md)
 - [Research Lookup](research-lookup.md)
 - [Scholar Evaluation](scholar-evaluation.md)
 
-### Regulatory & Standards Evidence Preparation
-
-- [ISO Standards Readiness](iso-standards-readiness.md)
-- [Analytical Method Validation](analytical-method-validation.md)
-
 ## Scientific Thinking & Analysis
-
 
 ### Analysis & Methodology
 

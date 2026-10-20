@@ -1,5 +1,7 @@
 # Security Scan Report
 
+> **Historical upstream scan — not a scan of this curated fork.** This report was generated for the original 177-skill collection. This fork includes 88 skills after curation; the findings and associated JSON remain upstream-era evidence. Regenerate the scan against the retained skills before treating its counts as current.
+
 **Generated:** 2026-10-19 09:33 UTC  
 **Skills scanned:** 177  
 **Total findings:** 466  

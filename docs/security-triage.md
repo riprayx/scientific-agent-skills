@@ -1,5 +1,7 @@
 # Security Scan Triage
 
+> **Historical upstream security triage — not a current fork audit.** The curated fork contains 88 Skills. The assessments below refer to prior upstream snapshots and require revalidation after this curation.
+
 Review notes for the [security report](security-report.md) and its
 [machine-readable companion](security-report.json). Automated findings require code review;
 neither a finding nor the scanner's `is_safe` field is a security certification.
