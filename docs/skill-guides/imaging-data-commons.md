@@ -8,10 +8,10 @@ The National Cancer Institute Imaging Data Commons provides public imaging colle
 
 It covers lightweight hosted metadata queries as well as reproducible Python workflows. Attention to the collection, patient, study, series, and instance hierarchy helps prevent a count of image files from being mistaken for a count of independent patients.
 
-![Imaging Data Commons workflow: From public collection discovery and metadata filtering to a documented imaging cohort, downloads, viewers, and citations](../images/imaging-data-commons.png)
+![Imaging Data Commons workflow: From public collection discovery and metadata filtering to a documented imaging cohort, downloads, viewers, and citations](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/imaging-data-commons.png)
 
 *From public collection discovery and metadata filtering to a documented imaging cohort, downloads, viewers, and citations.
-[View the full-size workflow diagram](../images/imaging-data-commons.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/imaging-data-commons.png).*
 
 ## Questions this skill can help you explore
 

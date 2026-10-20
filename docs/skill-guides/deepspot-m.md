@@ -6,9 +6,9 @@
 
 DeepSpot-M maps small H&E image tiles to predicted gene-expression values. This skill guides use of the released model, selection of genes from its supported panel, resolution-aware whole-slide tiling, and reconstruction of a spatial prediction matrix. It provides virtual spatial transcriptomics: a model-derived view of expression that must remain clearly distinguishable from a measured spatial assay.
 
-![Resolution-checked histology tiles produce gene-expression predictions linked back to their locations on a slide.](../images/deepspot-m.png)
+![Resolution-checked histology tiles produce gene-expression predictions linked back to their locations on a slide.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deepspot-m.png)
 
-*Resolution-checked histology tiles produce gene-expression predictions linked back to their locations on a slide. [View the full-size workflow diagram](../images/deepspot-m.png).*
+*Resolution-checked histology tiles produce gene-expression predictions linked back to their locations on a slide. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deepspot-m.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 This skill is a documentation workflow for existing, verified clinical decisions. It helps organize source facts, clinician-authored interventions, goals, checkpoints, shared-decision records, and handoff information in local structured files. The bundled tools perform deterministic structural checks and preserve unresolved items for human review; they do not make or assess treatment decisions.
 
-![Verified clinician-authored records are transcribed into local templates, structurally checked, and routed to authorized human review and release.](../images/treatment-plans.png)
+![Verified clinician-authored records are transcribed into local templates, structurally checked, and routed to authorized human review and release.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/treatment-plans.png)
 
-*Keep source traceability and review status attached to documentation throughout the handoff. [View the full-size workflow diagram](../images/treatment-plans.png).*
+*Keep source traceability and review status attached to documentation throughout the handoff. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/treatment-plans.png).*
 
 ## Questions this skill can help you explore
 

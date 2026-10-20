@@ -8,10 +8,10 @@ This skill combines OpenMM for molecular simulation with MDAnalysis for trajecto
 
 It is useful in structural biology and biophysics when a researcher wants to explore the behavior of a defined model over time. The interpretation depends on system preparation, force fields, simulation stability, and whether the relevant behavior has been adequately sampled.
 
-![Molecular Dynamics workflow: From prepared molecular structures and force fields to staged dynamics, saved trajectories, structural analysis, and sampling review](../images/molecular-dynamics.png)
+![Molecular Dynamics workflow: From prepared molecular structures and force fields to staged dynamics, saved trajectories, structural analysis, and sampling review](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/molecular-dynamics.png)
 
 *From prepared molecular structures and force fields to staged dynamics, saved trajectories, structural analysis, and sampling review.
-[View the full-size workflow diagram](../images/molecular-dynamics.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/molecular-dynamics.png).*
 
 ## Questions this skill can help you explore
 

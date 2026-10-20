@@ -6,9 +6,9 @@
 
 This skill uses Exa to search the web or retrieve content from specified pages and PDFs, including batches of URLs. It helps steer scientific queries toward publications, academic domains, and primary sources. The resulting material supports source discovery and reading; it is not itself a validated evidence synthesis or a guarantee that the search covers every relevant study.
 
-![A research query or URL set leads to source discovery, content extraction, and provenance-aware reading.](../images/exa-search.png)
+![A research query or URL set leads to source discovery, content extraction, and provenance-aware reading.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/exa-search.png)
 
-*A research query or URL set leads to source discovery, content extraction, and provenance-aware reading. [View the full-size workflow diagram](../images/exa-search.png).*
+*A research query or URL set leads to source discovery, content extraction, and provenance-aware reading. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/exa-search.png).*
 
 ## Questions this skill can help you explore
 

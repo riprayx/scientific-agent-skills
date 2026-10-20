@@ -6,10 +6,10 @@
 
 The TorchDrug skill guides the package's dataset, representation-model, task, and training-engine workflow. It covers molecular property prediction and documented extensions for pretraining, generation, retrosynthesis, proteins, and knowledge graphs. The guidance is especially useful when working with existing TorchDrug code whose older dependency stack and task conventions need careful handling.
 
-![TorchDrug workflow: verify a compatible environment, load molecular or protein data, define a representation and task, train with the engine, and evaluate scientific validity.](../images/torchdrug.png)
+![TorchDrug workflow: verify a compatible environment, load molecular or protein data, define a representation and task, train with the engine, and evaluate scientific validity.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/torchdrug.png)
 
 *From molecular or protein records to a version-aware graph-learning experiment.
-[View the full-size workflow diagram](../images/torchdrug.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/torchdrug.png).*
 
 ## Questions this skill can help you explore
 

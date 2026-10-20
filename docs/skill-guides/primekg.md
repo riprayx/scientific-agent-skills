@@ -6,9 +6,9 @@
 
 PrimeKG combines biological and medical associations into a graph that can be queried for direct neighbors, disease context, and short paths. This skill helps an assistant work with a specific downloaded PrimeKG dataset, resolve entities precisely, and preserve the meaning and provenance of each relationship. It is useful for evidence exploration and hypothesis generation.
 
-![A pinned PrimeKG dataset is checked, typed entities are resolved, and associations or short paths are returned with their original relationship records.](../images/primekg.png)
+![A pinned PrimeKG dataset is checked, typed entities are resolved, and associations or short paths are returned with their original relationship records.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/primekg.png)
 
-*Keep entity identity and relationship meaning visible while exploring graph connections. [View the full-size workflow diagram](../images/primekg.png).*
+*Keep entity identity and relationship meaning visible while exploring graph connections. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/primekg.png).*
 
 ## Questions this skill can help you explore
 

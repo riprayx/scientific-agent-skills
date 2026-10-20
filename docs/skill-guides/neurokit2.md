@@ -8,10 +8,10 @@ NeuroKit2 supports research analysis of physiological time series such as ECG, e
 
 It focuses on reproducibility and method-aware interpretation. A detected peak or calculated variability measure is useful only when the signal quality, sampling, processing choices, and recording duration support the intended research question.
 
-![NeuroKit2 workflow: From physiological recordings and acquisition metadata to checked time bases, explicit preprocessing, reviewed events or peaks, and research features](../images/neurokit2.png)
+![NeuroKit2 workflow: From physiological recordings and acquisition metadata to checked time bases, explicit preprocessing, reviewed events or peaks, and research features](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/neurokit2.png)
 
 *From physiological recordings and acquisition metadata to checked time bases, explicit preprocessing, reviewed events or peaks, and research features.
-[View the full-size workflow diagram](../images/neurokit2.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/neurokit2.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,10 +6,10 @@
 
 The Statsmodels skill supports regression, generalized linear and discrete models, mixed models, and time-series analysis in Python. It helps an assistant build a design matrix, fit a suitable model, inspect diagnostics, and report coefficients, marginal effects, or forecasts. The workflow connects numerical output to the study design that gives it meaning.
 
-![Statsmodels workflow: define a statistical model, validate the design and observations, fit and diagnose, compare compatible alternatives, and report effects or forecasts.](../images/statsmodels.png)
+![Statsmodels workflow: define a statistical model, validate the design and observations, fit and diagnose, compare compatible alternatives, and report effects or forecasts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statsmodels.png)
 
 *From a study design and data table to a checked statistical model.
-[View the full-size workflow diagram](../images/statsmodels.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statsmodels.png).*
 
 ## Questions this skill can help you explore
 

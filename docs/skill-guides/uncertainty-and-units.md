@@ -6,9 +6,9 @@
 
 This skill helps an assistant turn measured inputs into a result whose units and uncertainty are interpretable. It supports dimensional checks, uncertainty budgets, correlated inputs, coverage factors, Monte Carlo propagation, and consistent reporting. It also checks whether a result has a plausible physical scale, since correct dimensions alone do not establish a sensible answer.
 
-![A stated measurement model combines unit-aware inputs, uncertainties and correlations, propagation checks, and a clearly reported result.](../images/uncertainty-and-units.png)
+![A stated measurement model combines unit-aware inputs, uncertainties and correlations, propagation checks, and a clearly reported result.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/uncertainty-and-units.png)
 
-*Keep the measurement model and the meaning of the reported uncertainty visible. [View the full-size workflow diagram](../images/uncertainty-and-units.png).*
+*Keep the measurement model and the meaning of the reported uncertainty visible. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/uncertainty-and-units.png).*
 
 ## Questions this skill can help you explore
 

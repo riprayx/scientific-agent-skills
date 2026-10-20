@@ -8,10 +8,10 @@ ARAX provides access to biomedical knowledge-graph relationships through NCATS T
 
 It helps a research assistant retrieve candidate connections among public biomedical entities, review identifiers and relationship qualifiers, and follow the evidence back to primary sources. It is a lookup workflow, rather than an open-ended inference or ranking system.
 
-![NCATS ARAX workflow: From reviewed public entity identifiers and typed graph constraints to bounded relationship results, exact responses, and provenance review](../images/ncats-arax.png)
+![NCATS ARAX workflow: From reviewed public entity identifiers and typed graph constraints to bounded relationship results, exact responses, and provenance review](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ncats-arax.png)
 
 *From reviewed public entity identifiers and typed graph constraints to bounded relationship results, exact responses, and provenance review.
-[View the full-size workflow diagram](../images/ncats-arax.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ncats-arax.png).*
 
 ## Questions this skill can help you explore
 

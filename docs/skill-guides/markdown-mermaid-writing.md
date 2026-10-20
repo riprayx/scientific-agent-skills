@@ -8,10 +8,10 @@ This skill helps a research assistant write Markdown documents with Mermaid diag
 
 It provides document templates, syntax references, and rendering guidance. For scientists, it is useful for explaining how samples move through a study, how datasets relate, or how an analysis is organized.
 
-![Markdown and Mermaid Writing workflow: From a documented research structure to editable Markdown, an appropriate Mermaid diagram, and verified rendered output](../images/markdown-mermaid-writing.png)
+![Markdown and Mermaid Writing workflow: From a documented research structure to editable Markdown, an appropriate Mermaid diagram, and verified rendered output](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/markdown-mermaid-writing.png)
 
 *From a documented research structure to editable Markdown, an appropriate Mermaid diagram, and verified rendered output.
-[View the full-size workflow diagram](../images/markdown-mermaid-writing.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/markdown-mermaid-writing.png).*
 
 ## Questions this skill can help you explore
 

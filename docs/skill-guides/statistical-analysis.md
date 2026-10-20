@@ -6,10 +6,10 @@
 
 The statistical-analysis skill guides common research comparisons, regression, correlation, assumption review, effect sizes, and Bayesian alternatives. It helps an assistant connect the scientific question to a suitable analysis and explain the result in clear terms. The workflow gives effect estimates and their uncertainty a central role rather than treating a p-value as the whole answer.
 
-![Statistical-analysis workflow: define the estimand and sampling unit, inspect data, select a justified method, review assumptions, estimate effects, and report uncertainty.](../images/statistical-analysis.png)
+![Statistical-analysis workflow: define the estimand and sampling unit, inspect data, select a justified method, review assumptions, estimate effects, and report uncertainty.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statistical-analysis.png)
 
 *From a research question and study design to a transparent statistical result.
-[View the full-size workflow diagram](../images/statistical-analysis.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statistical-analysis.png).*
 
 ## Questions this skill can help you explore
 

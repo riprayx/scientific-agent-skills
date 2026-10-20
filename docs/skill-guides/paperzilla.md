@@ -8,10 +8,10 @@ Paperzilla organizes recommended papers around research projects. This skill hel
 
 It is useful for keeping up with an established project feed or preparing a reading shortlist. The skill preserves the distinction between a recommendation’s project-specific context and the underlying paper’s identity, metadata, and available text.
 
-![Paperzilla workflow: From an account project and feed query to selected recommendations, canonical paper review, scoped summaries, and optional exports](../images/paperzilla.png)
+![Paperzilla workflow: From an account project and feed query to selected recommendations, canonical paper review, scoped summaries, and optional exports](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paperzilla.png)
 
 *From an account project and feed query to selected recommendations, canonical paper review, scoped summaries, and optional exports.
-[View the full-size workflow diagram](../images/paperzilla.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paperzilla.png).*
 
 ## Questions this skill can help you explore
 

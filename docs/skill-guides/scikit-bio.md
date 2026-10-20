@@ -6,10 +6,10 @@
 
 The scikit-bio skill supports sequence handling, alignment, phylogenetic trees, diversity metrics, ordination, and ecological statistics. It helps an assistant move among biological data structures while retaining identifiers and methodological assumptions. It is particularly useful for community analyses that combine count tables, sample metadata, and a phylogenetic tree.
 
-![scikit-bio workflow: validate sequences or community tables, align identifiers and trees, calculate diversity or distances, and interpret ordination and statistical comparisons.](../images/scikit-bio.png)
+![scikit-bio workflow: validate sequences or community tables, align identifiers and trees, calculate diversity or distances, and interpret ordination and statistical comparisons.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-bio.png)
 
 *From biological data structures to reviewed sequence and community analyses.
-[View the full-size workflow diagram](../images/scikit-bio.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-bio.png).*
 
 ## Questions this skill can help you explore
 

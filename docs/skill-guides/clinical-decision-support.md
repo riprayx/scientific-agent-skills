@@ -6,9 +6,9 @@
 
 This skill supports the documentation around clinical decision-support research: intended use, cohort summaries, survival-analysis plans, aggregate model evaluation, evidence profiles, and governance review. It operates on local aggregate or synthetic inputs and produces draft artifacts with explicit provenance and review roles. Its scope excludes patient care, person-level classification, treatment recommendations, and live clinical operation.
 
-![Aggregate research inputs support documented evaluation plans, evidence checks, and qualified human governance review.](../images/clinical-decision-support.png)
+![Aggregate research inputs support documented evaluation plans, evidence checks, and qualified human governance review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/clinical-decision-support.png)
 
-*Aggregate research inputs support documented evaluation plans, evidence checks, and qualified human governance review. [View the full-size workflow diagram](../images/clinical-decision-support.png).*
+*Aggregate research inputs support documented evaluation plans, evidence checks, and qualified human governance review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/clinical-decision-support.png).*
 
 ## Questions this skill can help you explore
 

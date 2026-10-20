@@ -8,10 +8,10 @@ Molfeat generates numerical representations of molecules, including fingerprints
 
 It is useful for QSAR/QSPR, similarity searches, and representation comparisons. The workflow emphasizes an explicit baseline and a consistent split, so a more complex representation can be assessed against the actual prediction problem.
 
-![Molfeat workflow: From identified molecular structures to validated feature matrices, preserved label alignment, saved featurizer configuration, and fair representation comparisons](../images/molfeat.png)
+![Molfeat workflow: From identified molecular structures to validated feature matrices, preserved label alignment, saved featurizer configuration, and fair representation comparisons](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/molfeat.png)
 
 *From identified molecular structures to validated feature matrices, preserved label alignment, saved featurizer configuration, and fair representation comparisons.
-[View the full-size workflow diagram](../images/molfeat.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/molfeat.png).*
 
 ## Questions this skill can help you explore
 

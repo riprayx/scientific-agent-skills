@@ -8,10 +8,10 @@ Controlled vocabularies make metadata easier to compare and reuse, but a plausib
 
 It uses public services to search for candidates, inspect definitions and status, verify prefixes, and build appropriate landing-page links. The central task is matching the term’s meaning to the actual sample and the target metadata schema.
 
-![Ontology Term Resolution workflow: From free-text labels or existing identifiers to candidate terms, definition and status checks, curated mappings, and unresolved records](../images/ontology-term-resolution.png)
+![Ontology Term Resolution workflow: From free-text labels or existing identifiers to candidate terms, definition and status checks, curated mappings, and unresolved records](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ontology-term-resolution.png)
 
 *From free-text labels or existing identifiers to candidate terms, definition and status checks, curated mappings, and unresolved records.
-[View the full-size workflow diagram](../images/ontology-term-resolution.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ontology-term-resolution.png).*
 
 ## Questions this skill can help you explore
 

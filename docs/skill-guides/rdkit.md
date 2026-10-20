@@ -6,10 +6,10 @@
 
 The RDKit skill provides fine-grained cheminformatics workflows for molecular files, descriptors, fingerprints, substructure matching, reactions, and coordinate generation. It helps an assistant make explicit decisions about chemical representation rather than silently treating every structure string as an interchangeable identifier. It is especially useful when custom molecular handling or detailed validation is needed.
 
-![RDKit workflow: parse and validate molecules, preserve identifiers, calculate descriptors or fingerprints, inspect matches, and export reviewed structures.](../images/rdkit.png)
+![RDKit workflow: parse and validate molecules, preserve identifiers, calculate descriptors or fingerprints, inspect matches, and export reviewed structures.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/rdkit.png)
 
 *From molecular records to explicit chemical representations and research descriptors.
-[View the full-size workflow diagram](../images/rdkit.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/rdkit.png).*
 
 ## Questions this skill can help you explore
 

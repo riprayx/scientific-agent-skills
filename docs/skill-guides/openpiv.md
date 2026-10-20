@@ -8,10 +8,10 @@ Particle image velocimetry estimates motion by comparing tracer-particle pattern
 
 It can also support derived vorticity and strain-rate calculations when the spatial grid and units are correct. The emphasis is on preserving which vectors were measured, rejected, or repaired so later analysis does not treat all output as equally reliable.
 
-![OpenPIV workflow: From calibrated image pairs to interrogation-window correlations, validated velocity vectors, physical scaling, and derived flow fields](../images/openpiv.png)
+![OpenPIV workflow: From calibrated image pairs to interrogation-window correlations, validated velocity vectors, physical scaling, and derived flow fields](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/openpiv.png)
 
 *From calibrated image pairs to interrogation-window correlations, validated velocity vectors, physical scaling, and derived flow fields.
-[View the full-size workflow diagram](../images/openpiv.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/openpiv.png).*
 
 ## Questions this skill can help you explore
 

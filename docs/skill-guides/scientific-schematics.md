@@ -6,10 +6,10 @@
 
 The scientific-schematics skill generates raster diagram drafts from a natural-language description and uses an automated visual review to guide limited refinement. It suits conceptual pathways, system diagrams, research workflows, and model architectures. The scientist supplies the scientific content and checks the final labels and relationships before the image is used.
 
-![Scientific-schematics workflow: define supported components and relationships, generate a diagram draft, review visual quality, refine if needed, and inspect the final image.](../images/scientific-schematics.png)
+![Scientific-schematics workflow: define supported components and relationships, generate a diagram draft, review visual quality, refine if needed, and inspect the final image.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-schematics.png)
 
 *From a scientific diagram brief to a reviewed raster illustration draft.
-[View the full-size workflow diagram](../images/scientific-schematics.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-schematics.png).*
 
 ## Tasks this skill can help you complete
 

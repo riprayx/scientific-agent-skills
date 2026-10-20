@@ -8,10 +8,10 @@ Open Notebook brings documents, notes, search, and model-assisted discussion int
 
 It is useful for working across a collection of papers, protocols, transcripts, and other material. The workflow emphasizes checking extraction and retrieval before trusting an answer that appears to cite the notebook.
 
-![Open Notebook workflow: From configured notebooks and ingested sources to checked extraction, explicit context, search or cited discussion, and saved research notes](../images/open-notebook.png)
+![Open Notebook workflow: From configured notebooks and ingested sources to checked extraction, explicit context, search or cited discussion, and saved research notes](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/open-notebook.png)
 
 *From configured notebooks and ingested sources to checked extraction, explicit context, search or cited discussion, and saved research notes.
-[View the full-size workflow diagram](../images/open-notebook.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/open-notebook.png).*
 
 ## Questions this skill can help you explore
 

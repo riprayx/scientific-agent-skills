@@ -6,10 +6,10 @@
 
 The scvi-tools skill supports generative modeling for single-cell RNA and other omics, including batch integration, annotation, multimodal analysis, and model-based differential expression. It helps an assistant choose the correct model for the modality and preserve the measurement representation it requires. Evaluation includes both technical integration and retention of biological structure.
 
-![scvi-tools workflow: choose a modality-specific model, preserve required measurements, register data, train and evaluate, and export representations with model provenance.](../images/scvi-tools.png)
+![scvi-tools workflow: choose a modality-specific model, preserve required measurements, register data, train and evaluate, and export representations with model provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scvi-tools.png)
 
 *From single-cell measurements to reviewed probabilistic representations.
-[View the full-size workflow diagram](../images/scvi-tools.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scvi-tools.png).*
 
 ## Questions this skill can help you explore
 

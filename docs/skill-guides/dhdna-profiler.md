@@ -6,9 +6,9 @@
 
 This skill applies DHDNA terminology to a supplied text as an exploratory annotation exercise. It describes observable rhetorical and reasoning patterns, such as stated assumptions, comparison of alternatives, or explicit uncertainty. Its profile concerns the text sample, not a validated psychological trait, personal identity, or stable cognitive signature of its author.
 
-![A designated text sample is annotated with quotations, context, uncertainty, and a bounded writing-pattern synthesis.](../images/dhdna-profiler.png)
+![A designated text sample is annotated with quotations, context, uncertainty, and a bounded writing-pattern synthesis.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dhdna-profiler.png)
 
-*A designated text sample is annotated with quotations, context, uncertainty, and a bounded writing-pattern synthesis. [View the full-size workflow diagram](../images/dhdna-profiler.png).*
+*A designated text sample is annotated with quotations, context, uncertainty, and a bounded writing-pattern synthesis. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dhdna-profiler.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 gget combines gene lookup, sequence retrieval and comparison, structure access, expression queries, and disease-associated information in a Python and command-line toolkit. This skill helps a research assistant select the appropriate module, resolve identifiers, and preserve the context needed to interpret a quick query. It is particularly useful for interactive exploration and modest, well-defined retrieval tasks.
 
-![A biological question and checked identifiers are routed to the appropriate resource, with results saved alongside query context.](../images/gget.png)
+![A biological question and checked identifiers are routed to the appropriate resource, with results saved alongside query context.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/gget.png)
 
-*Move from a gene or sequence question to reviewable database records and analysis outputs. [View the full-size workflow diagram](../images/gget.png).*
+*Move from a gene or sequence question to reviewable database records and analysis outputs. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/gget.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,10 +6,10 @@
 
 The PyLabRobot skill helps translate liquid-handling intentions into resource definitions, deck layouts, transfer plans, and software-only simulations. It connects an experiment's volumes and labware to the automation framework while making missing configuration and operator checks explicit. This supports protocol development and review across compatible device backends.
 
-![PyLabRobot workflow: describe labware and deck resources, validate transfer bookkeeping, simulate operations, and prepare an operator review.](../images/pylabrobot.png)
+![PyLabRobot workflow: describe labware and deck resources, validate transfer bookkeeping, simulate operations, and prepare an operator review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pylabrobot.png)
 
 *From an experimental protocol to an offline automation plan.
-[View the full-size workflow diagram](../images/pylabrobot.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pylabrobot.png).*
 
 ## Questions this skill can help you explore
 

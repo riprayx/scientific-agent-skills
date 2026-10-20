@@ -6,9 +6,9 @@
 
 Autoskill examines a user-requested window of recorded computer activity to look for recurring patterns of work. It matches those patterns against existing scientific skills and can propose reuse, a composition recipe, or a new draft. This is a workflow-discovery aid: it produces suggestions for review rather than evidence that a researcher performed or validated a particular analysis.
 
-![An explicitly selected activity window is redacted, grouped into recurring workflows, and matched to skill proposals.](../images/autoskill.png)
+![An explicitly selected activity window is redacted, grouped into recurring workflows, and matched to skill proposals.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/autoskill.png)
 
-*An explicitly selected activity window is redacted, grouped into recurring workflows, and matched to skill proposals. [View the full-size workflow diagram](../images/autoskill.png).*
+*An explicitly selected activity window is redacted, grouped into recurring workflows, and matched to skill proposals. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/autoskill.png).*
 
 ## Questions this skill can help you explore
 

@@ -8,10 +8,10 @@ Preparing for an assessment often means locating the right records and making th
 
 Its local tools check the structure of declared evidence. They do not audit an organization, establish compliance, or make certification or accreditation decisions.
 
-![ISO Standards Readiness workflow: From declared scope and controlled records to a traceable evidence manifest, structural findings, and assigned review actions](../images/iso-standards-readiness.png)
+![ISO Standards Readiness workflow: From declared scope and controlled records to a traceable evidence manifest, structural findings, and assigned review actions](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/iso-standards-readiness.png)
 
 *From declared scope and controlled records to a traceable evidence manifest, structural findings, and assigned review actions.
-[View the full-size workflow diagram](../images/iso-standards-readiness.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/iso-standards-readiness.png).*
 
 ## Questions this skill can help you explore
 

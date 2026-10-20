@@ -6,10 +6,10 @@
 
 The scholar-evaluation skill supports developmental review of a paper, draft, protocol, synthesis, or research idea. It starts with qualitative judgment and can audit a bounded, low-stakes rubric when structured ratings are useful. The focus is the work's documented reasoning and evidence, with uncertainty and disagreement preserved.
 
-![Scholar-evaluation workflow: define developmental review criteria, link observations to evidence, compare independent ratings, inspect uncertainty, and produce constructive feedback.](../images/scholar-evaluation.png)
+![Scholar-evaluation workflow: define developmental review criteria, link observations to evidence, compare independent ratings, inspect uncertainty, and produce constructive feedback.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scholar-evaluation.png)
 
 *From a scholarly work to evidence-traceable developmental feedback.
-[View the full-size workflow diagram](../images/scholar-evaluation.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scholar-evaluation.png).*
 
 ## Questions this skill can help you explore
 

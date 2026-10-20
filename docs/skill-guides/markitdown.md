@@ -8,10 +8,10 @@ Microsoft MarkItDown converts common document formats into Markdown suitable for
 
 It is useful for assembling a searchable collection of papers, protocols, presentations, spreadsheets, and other supporting material. Its purpose is useful textual structure, rather than reproducing the exact visual appearance of the original file.
 
-![MarkItDown workflow: From heterogeneous source documents to Markdown conversion, provenance records, and source-based completeness checks](../images/markitdown.png)
+![MarkItDown workflow: From heterogeneous source documents to Markdown conversion, provenance records, and source-based completeness checks](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/markitdown.png)
 
 *From heterogeneous source documents to Markdown conversion, provenance records, and source-based completeness checks.
-[View the full-size workflow diagram](../images/markitdown.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/markitdown.png).*
 
 ## Questions this skill can help you explore
 

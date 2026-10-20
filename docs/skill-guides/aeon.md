@@ -6,9 +6,9 @@
 
 Time series contain information in their order, shape, timing, and relationships between channels. The Aeon skill helps choose and apply methods that preserve those features instead of treating every time point as an unrelated table row. It covers classification, regression, clustering, forecasting, anomaly detection, segmentation, and similarity search through a consistent Python estimator interface.
 
-![Time series are prepared, modeled for a defined task, and evaluated with appropriate temporal comparisons.](../images/aeon.png)
+![Time series are prepared, modeled for a defined task, and evaluated with appropriate temporal comparisons.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/aeon.png)
 
-*Time series are prepared, modeled for a defined task, and evaluated with appropriate temporal comparisons. [View the full-size workflow diagram](../images/aeon.png).*
+*Time series are prepared, modeled for a defined task, and evaluated with appropriate temporal comparisons. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/aeon.png).*
 
 ## Questions this skill can help you explore
 

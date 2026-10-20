@@ -8,10 +8,10 @@ An interesting pattern becomes scientifically useful when its explanation can be
 
 It combines a structured reasoning workflow with local templates and checks for hypothesis records, evidence ledgers, prediction matrices, and preregistration scaffolds. The researcher retains responsibility for the hypotheses, study design, and substantive judgments.
 
-![Scientific Hypothesis Generation workflow: From a documented observation to rival explanations, discriminating predictions, measurements, and a reviewable analysis plan](../images/hypothesis-generation.png)
+![Scientific Hypothesis Generation workflow: From a documented observation to rival explanations, discriminating predictions, measurements, and a reviewable analysis plan](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hypothesis-generation.png)
 
 *From a documented observation to rival explanations, discriminating predictions, measurements, and a reviewable analysis plan.
-[View the full-size workflow diagram](../images/hypothesis-generation.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hypothesis-generation.png).*
 
 ## Questions this skill can help you explore
 

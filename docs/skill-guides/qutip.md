@@ -6,10 +6,10 @@
 
 The QuTiP skill supports local modeling of closed and open quantum systems, including state evolution, dissipative dynamics, trajectories, steady states, and spectra. It helps an assistant translate a physical model into consistent operators and select an appropriate solver. The workflow keeps approximation choices and artificial numerical cutoffs visible throughout the calculation.
 
-![QuTiP workflow: define quantum states and operators, choose a physically appropriate solver, check state validity and convergence, and inspect dynamics or spectra.](../images/qutip.png)
+![QuTiP workflow: define quantum states and operators, choose a physically appropriate solver, check state validity and convergence, and inspect dynamics or spectra.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qutip.png)
 
 *From a quantum-system model to checked local simulations.
-[View the full-size workflow diagram](../images/qutip.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qutip.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 FluidSim provides Python-defined numerical solvers, particularly for periodic Cartesian pseudospectral fluid dynamics. This skill guides solver and parameter selection, resource planning, serial pilots, refinement, output inspection, and restart provenance. It treats numerical convergence and physical applicability as explicit research questions rather than assuming that a completed run or smooth plot is sufficient.
 
-![A stated physical model becomes a bounded simulation plan, a serial pilot, refinement studies, and documented outputs.](../images/fluidsim.png)
+![A stated physical model becomes a bounded simulation plan, a serial pilot, refinement studies, and documented outputs.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/fluidsim.png)
 
-*A stated physical model becomes a bounded simulation plan, a serial pilot, refinement studies, and documented outputs. [View the full-size workflow diagram](../images/fluidsim.png).*
+*A stated physical model becomes a bounded simulation plan, a serial pilot, refinement studies, and documented outputs. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/fluidsim.png).*
 
 ## Questions this skill can help you explore
 

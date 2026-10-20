@@ -6,9 +6,9 @@
 
 Cirq helps construct quantum circuits, simulate their behavior, sweep parameters, and transform operations into forms suitable for a selected device. This skill covers local simulation, noise studies, hardware-oriented circuit design, and characterization experiments. It also describes provider integrations, while keeping local simulator evidence separate from successful execution on a physical quantum processor.
 
-![Quantum circuits are constructed, checked in simulation, adapted to device constraints, and evaluated under explicit noise assumptions.](../images/cirq.png)
+![Quantum circuits are constructed, checked in simulation, adapted to device constraints, and evaluated under explicit noise assumptions.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cirq.png)
 
-*Quantum circuits are constructed, checked in simulation, adapted to device constraints, and evaluated under explicit noise assumptions. [View the full-size workflow diagram](../images/cirq.png).*
+*Quantum circuits are constructed, checked in simulation, adapted to device constraints, and evaluated under explicit noise assumptions. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cirq.png).*
 
 ## Questions this skill can help you explore
 

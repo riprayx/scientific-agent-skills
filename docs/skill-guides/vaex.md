@@ -6,9 +6,9 @@
 
 Vaex supports columnar analysis of datasets that can be larger than a machine's RAM. This skill helps an assistant work with compatible local files, define virtual columns, calculate summaries, and visualize aggregated data without unnecessarily materializing the full table. It also explains which operations still require substantial memory and how to preserve scientific meaning during conversion and filtering.
 
-![A large compatible table is inspected, filtered through expressions, summarized or binned, and exported with count and schema checks.](../images/vaex.png)
+![A large compatible table is inspected, filtered through expressions, summarized or binned, and exported with count and schema checks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/vaex.png)
 
-*Explore large datasets while retaining row identity, measurement units, and explicit selection rules. [View the full-size workflow diagram](../images/vaex.png).*
+*Explore large datasets while retaining row identity, measurement units, and explicit selection rules. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/vaex.png).*
 
 ## Questions this skill can help you explore
 

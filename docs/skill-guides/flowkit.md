@@ -6,9 +6,9 @@
 
 FlowKit supports analysis of flow-cytometry events using compensation, transforms, hierarchical gates, GatingML strategies, and supported FlowJo workspaces. This skill helps preserve the analysis definition across samples and export traceable population counts and percentages. It emphasizes detector identity, gate coordinates, parent populations, and visual comparison with the intended reference analysis.
 
-![FlowKit workflow for validating FCS samples and a gating strategy, applying compensation and transforms, and reviewing population counts.](../images/flowkit.png)
+![FlowKit workflow for validating FCS samples and a gating strategy, applying compensation and transforms, and reviewing population counts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/flowkit.png)
 
-*Apply a recorded cytometry gating strategy and retain the information needed to interpret population summaries. [View the full-size workflow diagram](../images/flowkit.png).*
+*Apply a recorded cytometry gating strategy and retain the information needed to interpret population summaries. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/flowkit.png).*
 
 ## Questions this skill can help you explore
 

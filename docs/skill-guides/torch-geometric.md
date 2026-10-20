@@ -6,10 +6,10 @@
 
 The PyTorch Geometric skill supports graph neural networks for node prediction, link prediction, and whole-graph tasks. It helps an assistant represent homogeneous or heterogeneous graphs, choose message-passing models, batch examples, and scale with supported sampling methods. The scientific meaning of graph construction and the split design remain central to the experiment.
 
-![PyTorch Geometric workflow: define nodes and edges, validate graph tensors, choose a graph-learning task, train with suitable batching, and evaluate a documented split.](../images/torch-geometric.png)
+![PyTorch Geometric workflow: define nodes and edges, validate graph tensors, choose a graph-learning task, train with suitable batching, and evaluate a documented split.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/torch-geometric.png)
 
 *From relational research data to a checked graph-learning experiment.
-[View the full-size workflow diagram](../images/torch-geometric.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/torch-geometric.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,10 +6,10 @@
 
 The scientific-writing skill supports drafting, revision, and audit of manuscripts and scientific reports. It links statements to evidence, reconciles methods with results, checks reporting coverage, and keeps missing facts explicit. The goal is prose that accurately communicates the work while preserving human authors' responsibility for scientific decisions and final approval.
 
-![Scientific-writing workflow: collect verified study records, outline evidence-linked claims, draft and reconcile the manuscript, check reporting and declarations, and obtain author review.](../images/scientific-writing.png)
+![Scientific-writing workflow: collect verified study records, outline evidence-linked claims, draft and reconcile the manuscript, check reporting and declarations, and obtain author review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-writing.png)
 
 *From verified study records to an accountable scientific manuscript.
-[View the full-size workflow diagram](../images/scientific-writing.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-writing.png).*
 
 ## Tasks this skill can help you complete
 

@@ -8,9 +8,9 @@ Two independent carbonate-system measurements can constrain a seawater sample's 
 
 It helps a research assistant keep units, pH scales, equilibrium constants, temperature, and pressure consistent. The result is a reproducible calculation table with its assumptions attached, rather than a set of numbers separated from their measurement context.
 
-![Marine carbonate chemistry workflow for defining measured carbonate pairs, environmental conditions and conventions, then solving and propagating uncertainty.](../images/marine-carbonate-chemistry.png)
+![Marine carbonate chemistry workflow for defining measured carbonate pairs, environmental conditions and conventions, then solving and propagating uncertainty.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/marine-carbonate-chemistry.png)
 
-*Calculate seawater carbonate properties with explicit units, pH scales, conditions, and uncertainty assumptions. [View the full-size workflow diagram](../images/marine-carbonate-chemistry.png).*
+*Calculate seawater carbonate properties with explicit units, pH scales, conditions, and uncertainty assumptions. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/marine-carbonate-chemistry.png).*
 
 ## Questions this skill can help you explore
 

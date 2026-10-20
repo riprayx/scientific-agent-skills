@@ -8,10 +8,10 @@ Medchem applies named chemical rules, structural alert catalogs, and complexity 
 
 It can support early library review, hit-to-lead planning, or a comparison of screening subsets. The filters encode useful heuristics, but their relevance depends on the assay, target, intended exposure, and chemistry program.
 
-![Medchem workflow: From validated molecular structures to rule evaluations, structural alerts, complexity annotations, and a traceable compound triage table](../images/medchem.png)
+![Medchem workflow: From validated molecular structures to rule evaluations, structural alerts, complexity annotations, and a traceable compound triage table](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/medchem.png)
 
 *From validated molecular structures to rule evaluations, structural alerts, complexity annotations, and a traceable compound triage table.
-[View the full-size workflow diagram](../images/medchem.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/medchem.png).*
 
 ## Questions this skill can help you explore
 

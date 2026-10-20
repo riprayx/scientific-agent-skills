@@ -6,9 +6,9 @@
 
 This skill combines Primer3 design and thermodynamic calculations with reference-based searches for possible amplification products. It supports new PCR or RT-qPCR pairs, reviews of existing primers, selected junction or isoform constraints, cloning tails, and multiplex checks. The result is a traceable set of computational candidates with clearly stated experimental validation still needed.
 
-![PCR primer workflow from assay requirements through candidate design, thermodynamic checks, product screening, and a documented review status.](../images/primer-design.png)
+![PCR primer workflow from assay requirements through candidate design, thermodynamic checks, product screening, and a documented review status.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/primer-design.png)
 
-*Design and screen primer candidates while distinguishing computational checks from experimental validation. [View the full-size workflow diagram](../images/primer-design.png).*
+*Design and screen primer candidates while distinguishing computational checks from experimental validation. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/primer-design.png).*
 
 ## Questions this skill can help you explore
 

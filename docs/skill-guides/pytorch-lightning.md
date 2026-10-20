@@ -6,10 +6,10 @@
 
 The PyTorch Lightning skill helps structure a PyTorch research project into model logic, data preparation, training configuration, and evaluation. It supports checkpoints, callbacks, experiment logging, and scaling to suitable hardware. Its value is in making the computational experiment explicit; scientific validity still depends on the data, task, and evaluation design.
 
-![PyTorch Lightning workflow: define model and data modules, configure training, monitor validation, save checkpoints, and evaluate the selected model.](../images/pytorch-lightning.png)
+![PyTorch Lightning workflow: define model and data modules, configure training, monitor validation, save checkpoints, and evaluate the selected model.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pytorch-lightning.png)
 
 *From a neural-network prototype to an organized training experiment.
-[View the full-size workflow diagram](../images/pytorch-lightning.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pytorch-lightning.png).*
 
 ## Questions this skill can help you explore
 

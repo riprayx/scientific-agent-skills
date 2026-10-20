@@ -6,9 +6,9 @@
 
 The CELLxGENE Census skill provides programmatic access to versioned public single-cell and supported spatial transcriptomics data. It helps explore available metadata, select relevant tissues or cell populations, retrieve expression slices, and locate source datasets. The workflow is intended for reference comparisons and population-scale data access; analysis of a researcher’s own dataset belongs in a separate analysis workflow.
 
-![A pinned Census release is explored, filtered, and queried to retrieve documented metadata and expression subsets.](../images/cellxgene-census.png)
+![A pinned Census release is explored, filtered, and queried to retrieve documented metadata and expression subsets.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cellxgene-census.png)
 
-*A pinned Census release is explored, filtered, and queried to retrieve documented metadata and expression subsets. [View the full-size workflow diagram](../images/cellxgene-census.png).*
+*A pinned Census release is explored, filtered, and queried to retrieve documented metadata and expression subsets. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cellxgene-census.png).*
 
 ## Questions this skill can help you explore
 

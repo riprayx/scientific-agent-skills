@@ -6,9 +6,9 @@
 
 Pi is a coding-agent runtime that can work in a terminal or be embedded in another application. This skill helps an assistant install and configure Pi, connect a model provider, manage sessions, and add the tools or extensions a project needs. It is useful when building the environment around scientific work, rather than supplying a scientific analysis method itself.
 
-![A chosen model and project context connect to a Pi session, optional tools or extensions, and recorded execution events.](../images/pi-agent.png)
+![A chosen model and project context connect to a Pi session, optional tools or extensions, and recorded execution events.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pi-agent.png)
 
-*Make the agent environment, model access, and session lifecycle explicit. [View the full-size workflow diagram](../images/pi-agent.png).*
+*Make the agent environment, model access, and session lifecycle explicit. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pi-agent.png).*
 
 ## Questions this skill can help you explore
 

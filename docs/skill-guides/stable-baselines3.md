@@ -6,10 +6,10 @@
 
 The Stable Baselines3 skill supports single-agent reinforcement-learning experiments using algorithms such as PPO, SAC, and DQN. It helps define a Gymnasium environment, validate its interface, configure training, preserve checkpoints and normalization, and evaluate complete episodes. The focus is a reproducible experiment whose reward and environment meaning remain explicit.
 
-![Stable Baselines3 workflow: define an environment and reward, validate spaces, train with monitoring, save policy and normalization, and evaluate independent episodes and seeds.](../images/stable-baselines3.png)
+![Stable Baselines3 workflow: define an environment and reward, validate spaces, train with monitoring, save policy and normalization, and evaluate independent episodes and seeds.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/stable-baselines3.png)
 
 *From a simulated decision problem to a reviewed policy-training experiment.
-[View the full-size workflow diagram](../images/stable-baselines3.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/stable-baselines3.png).*
 
 ## Questions this skill can help you explore
 

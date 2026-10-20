@@ -6,9 +6,9 @@
 
 Zarr stores multidimensional arrays as independently accessible chunks, making it useful for imagery, simulations, and other large scientific datasets. This skill helps an assistant choose an array layout, compression, and storage backend, then verify the written values and metadata. It also covers integration with NumPy, Dask, and Xarray and careful movement between supported storage formats.
 
-![Array dimensions and access patterns determine chunk layout, bounded writes, coordinated storage, and read-back validation.](../images/zarr-python.png)
+![Array dimensions and access patterns determine chunk layout, bounded writes, coordinated storage, and read-back validation.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/zarr-python.png)
 
-*Design storage around actual scientific selections and verify both data and meaning after writing. [View the full-size workflow diagram](../images/zarr-python.png).*
+*Design storage around actual scientific selections and verify both data and meaning after writing. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/zarr-python.png).*
 
 ## Questions this skill can help you explore
 

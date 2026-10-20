@@ -6,9 +6,9 @@
 
 This skill helps discover papers, resolve identifiers to publication metadata, fill genuine metadata gaps, format BibTeX, and check citations against a manuscript. It treats the reference list as a traceable research artifact rather than a set of plausible-looking strings. The workflow uses scholarly databases and publisher records while preserving the actual publication state of each item.
 
-![Paper discovery and identifier resolution lead to verified metadata, consistent BibTeX, and manuscript citation checks.](../images/citation-management.png)
+![Paper discovery and identifier resolution lead to verified metadata, consistent BibTeX, and manuscript citation checks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/citation-management.png)
 
-*Paper discovery and identifier resolution lead to verified metadata, consistent BibTeX, and manuscript citation checks. [View the full-size workflow diagram](../images/citation-management.png).*
+*Paper discovery and identifier resolution lead to verified metadata, consistent BibTeX, and manuscript citation checks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/citation-management.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 This skill helps convert a scientific information request into a bounded query against an appropriate database. It provides resource-specific retrieval guidance and a common workflow for identifiers, filters, pagination, and source attribution. The goal is a result another researcher can reproduce, with failures and coverage limitations visible rather than hidden behind a polished summary.
 
-![A defined retrieval question becomes an authoritative database query with verified pagination and recorded provenance.](../images/database-lookup.png)
+![A defined retrieval question becomes an authoritative database query with verified pagination and recorded provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/database-lookup.png)
 
-*A defined retrieval question becomes an authoritative database query with verified pagination and recorded provenance. [View the full-size workflow diagram](../images/database-lookup.png).*
+*A defined retrieval question becomes an authoritative database query with verified pagination and recorded provenance. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/database-lookup.png).*
 
 ## Questions this skill can help you explore
 

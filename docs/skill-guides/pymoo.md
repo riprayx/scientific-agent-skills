@@ -6,10 +6,10 @@
 
 The pymoo skill guides optimization problems with one or several objectives, explicit constraints, and continuous or discrete decision variables. It helps an assistant define the mathematical problem, choose a search method, and examine candidate solutions. For multiple objectives, the result is usually a set of trade-offs for scientific judgment rather than one universally best design.
 
-![pymoo workflow: define variables, objectives, and constraints, run an optimization search, inspect feasibility, and compare trade-off solutions.](../images/pymoo.png)
+![pymoo workflow: define variables, objectives, and constraints, run an optimization search, inspect feasibility, and compare trade-off solutions.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymoo.png)
 
 *From design requirements to a reviewed set of candidate trade-offs.
-[View the full-size workflow diagram](../images/pymoo.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymoo.png).*
 
 ## Questions this skill can help you explore
 

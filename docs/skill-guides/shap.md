@@ -6,10 +6,10 @@
 
 The SHAP skill guides feature-attribution analysis for an already fitted predictive model. It helps select an explainer and reference population, define the output being explained, validate attribution sums, and produce local or global visualizations. The resulting explanations describe model behavior under a particular comparison, rather than establishing a scientific mechanism.
 
-![SHAP workflow: fix the model and explained output, choose reference data and an explainer, compute attributions, check additivity, and interpret local or global patterns.](../images/shap.png)
+![SHAP workflow: fix the model and explained output, choose reference data and an explainer, compute attributions, check additivity, and interpret local or global patterns.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/shap.png)
 
 *From an evaluated predictive model to checked feature-attribution summaries.
-[View the full-size workflow diagram](../images/shap.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/shap.png).*
 
 ## Questions this skill can help you explore
 

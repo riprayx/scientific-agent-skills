@@ -6,9 +6,9 @@
 
 An assay can be repeatable yet unsuitable for the concentration range, sample matrix, or decision it must support. This skill guides validation, verification, and transfer studies by first identifying the governing framework and the procedure’s intended use. It combines study planning, statistical calculations, and report structure for analytical and bioanalytical methods.
 
-![An intended analytical use is translated into predefined criteria, validation studies, and reviewable evidence.](../images/analytical-method-validation.png)
+![An intended analytical use is translated into predefined criteria, validation studies, and reviewable evidence.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/analytical-method-validation.png)
 
-*An intended analytical use is translated into predefined criteria, validation studies, and reviewable evidence. [View the full-size workflow diagram](../images/analytical-method-validation.png).*
+*An intended analytical use is translated into predefined criteria, validation studies, and reviewable evidence. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/analytical-method-validation.png).*
 
 ## Questions this skill can help you explore
 

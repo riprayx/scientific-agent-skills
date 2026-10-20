@@ -10,10 +10,10 @@ data quality, grouping cells with similar expression patterns, finding genes tha
 distinguish those groups, and supporting cell type assignments with biological evidence.
 It combines analysis instructions with reusable scripts and plotting guidance.
 
-![Scanpy workflow: check data quality, normalize gene counts, summarize expression patterns, cluster cells, rank marker genes, and review cell type annotations.](../images/scanpy.png)
+![Scanpy workflow: check data quality, normalize gene counts, summarize expression patterns, cluster cells, rank marker genes, and review cell type annotations.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scanpy.png)
 
 *From gene counts to reviewed cell populations, with figures and data saved along the way.
-[View the full-size workflow diagram](../images/scanpy.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scanpy.png).*
 
 ## Questions this skill can help you explore
 

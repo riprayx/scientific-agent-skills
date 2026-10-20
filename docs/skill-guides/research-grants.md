@@ -6,10 +6,10 @@
 
 The research-grants skill supports investigator-authored proposal preparation and review across several research funders. It helps connect aims, methods, feasibility, budgets, and required attachments to an opportunity's instructions. The central deliverable is a clear, traceable proposal package whose unresolved scientific and submission requirements remain visible.
 
-![Research-grants workflow: identify the governing opportunity, map requirements, review investigator-authored aims and methods, reconcile the budget, and inspect the submission package.](../images/research-grants.png)
+![Research-grants workflow: identify the governing opportunity, map requirements, review investigator-authored aims and methods, reconcile the budget, and inspect the submission package.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/research-grants.png)
 
 *From a funding opportunity and research plan to a reviewable proposal package.
-[View the full-size workflow diagram](../images/research-grants.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/research-grants.png).*
 
 ## Tasks this skill can help you complete
 

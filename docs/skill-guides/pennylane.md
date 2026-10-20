@@ -8,10 +8,10 @@ PennyLane connects parameterized quantum circuits with classical optimization an
 
 The workflow starts with a small simulator case whose behavior can be independently verified. It then introduces finite sampling, noise, resources, or provider-specific execution as separate steps, so an optimization trace is not mistaken for evidence of quantum advantage.
 
-![PennyLane workflow: From defined problem conventions to a checked circuit and gradient, optimization, independent validation, and optional noisy or hardware execution](../images/pennylane.png)
+![PennyLane workflow: From defined problem conventions to a checked circuit and gradient, optimization, independent validation, and optional noisy or hardware execution](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pennylane.png)
 
 *From defined problem conventions to a checked circuit and gradient, optimization, independent validation, and optional noisy or hardware execution.
-[View the full-size workflow diagram](../images/pennylane.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pennylane.png).*
 
 ## Questions this skill can help you explore
 

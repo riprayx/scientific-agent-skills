@@ -8,10 +8,10 @@ This skill helps organize a market investigation around a concrete decision, suc
 
 For a scientist exploring translation or commercialization, the value is methodological discipline: define exactly what is being counted, preserve conflicting evidence, and avoid presenting an uncertain opportunity as a measured fact.
 
-![Market Research Reports workflow: From market definition and source records to traceable claims, reconciled sizing scenarios, sensitivity analysis, and a reviewable report](../images/market-research-reports.png)
+![Market Research Reports workflow: From market definition and source records to traceable claims, reconciled sizing scenarios, sensitivity analysis, and a reviewable report](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/market-research-reports.png)
 
 *From market definition and source records to traceable claims, reconciled sizing scenarios, sensitivity analysis, and a reviewable report.
-[View the full-size workflow diagram](../images/market-research-reports.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/market-research-reports.png).*
 
 ## Questions this skill can help you explore
 

@@ -8,10 +8,10 @@ This skill guides a research assistant through aligning homologous nucleotide or
 
 It is useful for gene trees and protein-family analysis when the biological input supports a common evolutionary comparison. It preserves the alignment and inference reports so the tree image can be interpreted in the context of the assumptions that produced it.
 
-![Phylogenetics workflow: From homologous sequences and metadata to inspected alignment, model-based inference, support review, justified display rooting, and retained artifacts](../images/phylogenetics.png)
+![Phylogenetics workflow: From homologous sequences and metadata to inspected alignment, model-based inference, support review, justified display rooting, and retained artifacts](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/phylogenetics.png)
 
 *From homologous sequences and metadata to inspected alignment, model-based inference, support review, justified display rooting, and retained artifacts.
-[View the full-size workflow diagram](../images/phylogenetics.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/phylogenetics.png).*
 
 ## Questions this skill can help you explore
 

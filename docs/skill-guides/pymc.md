@@ -6,10 +6,10 @@
 
 The PyMC skill guides Bayesian modeling from the research question through prior checks, inference, diagnostics, and prediction. It supports hierarchical models and other probabilistic analyses in which uncertainty and group structure matter. The emphasis is on checking the model's behavior and interpretation, not simply obtaining posterior samples.
 
-![PyMC workflow: define a generative model, check priors, sample the posterior, inspect diagnostics, and assess predictive behavior.](../images/pymc.png)
+![PyMC workflow: define a generative model, check priors, sample the posterior, inspect diagnostics, and assess predictive behavior.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymc.png)
 
 *From scientific assumptions to checked posterior and predictive uncertainty.
-[View the full-size workflow diagram](../images/pymc.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymc.png).*
 
 ## Questions this skill can help you explore
 

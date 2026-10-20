@@ -6,9 +6,9 @@
 
 Carbon-13 tracing follows labeled carbon through a metabolic network. This skill connects those measurements to a model of atom movement, simulates expected labeling, and fits intracellular reaction rates. Its central question is both how well a model explains the data and whether different flux patterns could explain them equally well. It supports experiments at metabolic and isotopic steady state.
 
-![Carbon-13 metabolic flux workflow from tracer measurements and atom mappings through model fitting, uncertainty analysis, and identifiability checks.](../images/13c-metabolic-flux.png)
+![Carbon-13 metabolic flux workflow from tracer measurements and atom mappings through model fitting, uncertainty analysis, and identifiability checks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/13c-metabolic-flux.png)
 
-*Connect isotope measurements to flux estimates while checking which fluxes the experiment can resolve. [View the full-size workflow diagram](../images/13c-metabolic-flux.png).*
+*Connect isotope measurements to flux estimates while checking which fluxes the experiment can resolve. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/13c-metabolic-flux.png).*
 
 ## Questions this skill can help you explore
 

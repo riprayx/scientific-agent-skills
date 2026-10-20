@@ -6,10 +6,10 @@
 
 The scientific-brainstorming skill structures early-stage scientific ideation. It helps an assistant or research group generate candidate explanations and directions, organize them without losing minority views, and compare them using explicit criteria. The result is a documented set of proposals and next questions, not a validation of the ideas themselves.
 
-![Scientific-brainstorming workflow: scope a question, generate independent ideas, organize alternatives, check evidence and assumptions, and record a reasoned shortlist.](../images/scientific-brainstorming.png)
+![Scientific-brainstorming workflow: scope a question, generate independent ideas, organize alternatives, check evidence and assumptions, and record a reasoned shortlist.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-brainstorming.png)
 
 *From an open research question to a traceable set of candidate directions.
-[View the full-size workflow diagram](../images/scientific-brainstorming.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-brainstorming.png).*
 
 ## Questions this skill can help you explore
 

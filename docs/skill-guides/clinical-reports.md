@@ -6,9 +6,9 @@
 
 The clinical-reports skill creates draft scaffolds for case, diagnostic, trial, safety, and aggregate research reporting. It helps route the artifact to an appropriate reporting framework and run deterministic structural checks. Content comes only from authorized, verified source facts; the skill does not interpret raw clinical observations, make diagnoses, or supply treatment decisions.
 
-![Verified source facts populate draft report structures that undergo consistency checks and qualified review.](../images/clinical-reports.png)
+![Verified source facts populate draft report structures that undergo consistency checks and qualified review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/clinical-reports.png)
 
-*Verified source facts populate draft report structures that undergo consistency checks and qualified review. [View the full-size workflow diagram](../images/clinical-reports.png).*
+*Verified source facts populate draft report structures that undergo consistency checks and qualified review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/clinical-reports.png).*
 
 ## Questions this skill can help you explore
 

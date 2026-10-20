@@ -6,10 +6,10 @@
 
 The RELSA skill supports multivariate severity assessment by combining directional changes in welfare readouts, such as body weight, activity, temperature, and clinical scores. It also supports exploratory forecasts of a score at a specified future observation time. The reference cohort, variable definitions, and approved observation and endpoint criteria remain central to interpretation.
 
-![RELSA workflow: define measurement direction and baseline, select a reference cohort, calculate relative scores, review trajectories, and assess exploratory forecasts.](../images/relsa-severity-assessment.png)
+![RELSA workflow: define measurement direction and baseline, select a reference cohort, calculate relative scores, review trajectories, and assess exploratory forecasts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/relsa-severity-assessment.png)
 
 *From documented welfare readouts to reference-relative scores and cautious forecasting.
-[View the full-size workflow diagram](../images/relsa-severity-assessment.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/relsa-severity-assessment.png).*
 
 ## Questions this skill can help you explore
 

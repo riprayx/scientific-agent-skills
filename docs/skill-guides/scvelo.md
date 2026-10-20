@@ -6,10 +6,10 @@
 
 The scVelo skill guides RNA velocity analysis using paired spliced and unspliced single-cell counts. It fits supported kinetic models, examines gene-level phase portraits, and builds relative trajectory summaries. The workflow emphasizes checking whether individual genes and measurement coverage support the direction suggested by an embedding.
 
-![scVelo workflow: validate spliced and unspliced counts, fit a kinetic model, inspect gene phase portraits, construct velocity graphs, and test directional interpretations.](../images/scvelo.png)
+![scVelo workflow: validate spliced and unspliced counts, fit a kinetic model, inspect gene phase portraits, construct velocity graphs, and test directional interpretations.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scvelo.png)
 
 *From RNA processing measurements to model-based cell-state direction hypotheses.
-[View the full-size workflow diagram](../images/scvelo.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scvelo.png).*
 
 ## Questions this skill can help you explore
 

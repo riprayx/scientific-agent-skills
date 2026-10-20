@@ -6,9 +6,9 @@
 
 polars-bio brings genomic interval operations and biological file readers into Polars-style data processing. This skill helps an assistant work with regions, variants, alignments, annotations, and sequences while tracking coordinate conventions. It supports questions about overlap, nearby features, covered bases, and read depth, which require different operations and interpretations.
 
-![Genomic files are read with inspected schemas, harmonized coordinates, a chosen interval operation, and checked output counts.](../images/polars-bio.png)
+![Genomic files are read with inspected schemas, harmonized coordinates, a chosen interval operation, and checked output counts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/polars-bio.png)
 
-*Keep genomic coordinates and the unit being counted explicit throughout the analysis. [View the full-size workflow diagram](../images/polars-bio.png).*
+*Keep genomic coordinates and the unit being counted explicit throughout the analysis. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/polars-bio.png).*
 
 ## Questions this skill can help you explore
 

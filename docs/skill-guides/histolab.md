@@ -6,9 +6,9 @@
 
 Whole-slide images are too large for many analyses to process at once. Histolab helps extract smaller image tiles after inspecting slide metadata and selecting tissue regions. This skill guides an assistant through tissue masks, random or grid sampling, score-based selection, and H&E stain preprocessing, while retaining the physical scale and slide identity needed for downstream research.
 
-![A whole-slide image is inspected, masked, sampled into tiles, and reviewed with its coordinates and preprocessing settings.](../images/histolab.png)
+![A whole-slide image is inspected, masked, sampled into tiles, and reviewed with its coordinates and preprocessing settings.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/histolab.png)
 
-*Turn a large histology scan into traceable tiles with visible sampling choices. [View the full-size workflow diagram](../images/histolab.png).*
+*Turn a large histology scan into traceable tiles with visible sampling choices. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/histolab.png).*
 
 ## Questions this skill can help you explore
 

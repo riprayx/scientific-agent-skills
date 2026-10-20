@@ -6,10 +6,10 @@
 
 The Seaborn skill helps an assistant create dataset-oriented plots from named variables in tables. It supports distribution, relationship, categorical, regression, matrix, and faceted views, with Matplotlib available for refinement. The guidance makes automatic aggregation, uncertainty, and missing-data behavior visible so a convenient plotting default does not silently change the scientific question.
 
-![Seaborn workflow: prepare a tidy dataset, choose variable mappings, specify statistical summaries, create plots or facets, and review labels and missing-data behavior.](../images/seaborn.png)
+![Seaborn workflow: prepare a tidy dataset, choose variable mappings, specify statistical summaries, create plots or facets, and review labels and missing-data behavior.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/seaborn.png)
 
 *From a research table to interpretable exploratory plots.
-[View the full-size workflow diagram](../images/seaborn.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/seaborn.png).*
 
 ## Questions this skill can help you explore
 

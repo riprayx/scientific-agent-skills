@@ -6,10 +6,10 @@
 
 The Rowan skill helps an assistant use a cloud molecular-modeling platform for property prediction, conformer and tautomer ensembles, docking, protein–ligand workflows, and related calculations. It supports programmatic batches and multi-step campaigns. The workflow makes method choice, molecular representation, hosted computation, and interpretation part of the research plan.
 
-![Rowan workflow: define molecular inputs, choose a supported modeling method, submit hosted calculations, monitor jobs, and review structured results.](../images/rowan.png)
+![Rowan workflow: define molecular inputs, choose a supported modeling method, submit hosted calculations, monitor jobs, and review structured results.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/rowan.png)
 
 *From documented molecular structures to organized hosted modeling results.
-[View the full-size workflow diagram](../images/rowan.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/rowan.png).*
 
 ## Questions this skill can help you explore
 

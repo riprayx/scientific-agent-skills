@@ -8,10 +8,10 @@ LiteParse helps turn papers, protocols, and other documents into text that remai
 
 The skill supports local PDF parsing, OCR of scans, page images, and batch ingestion. It is useful when building a searchable research collection or reviewing documents whose figures and columns matter.
 
-![LiteParse workflow: From source documents to layout-aware text, page coordinates, optional OCR, and rendered pages for extraction checks](../images/liteparse.png)
+![LiteParse workflow: From source documents to layout-aware text, page coordinates, optional OCR, and rendered pages for extraction checks](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/liteparse.png)
 
 *From source documents to layout-aware text, page coordinates, optional OCR, and rendered pages for extraction checks.
-[View the full-size workflow diagram](../images/liteparse.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/liteparse.png).*
 
 ## Questions this skill can help you explore
 

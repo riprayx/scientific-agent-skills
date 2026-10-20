@@ -6,9 +6,9 @@
 
 This skill provides two routes to AlphaGenome: retrieving precomputed human single-nucleotide variant effects from the Atlas, and requesting model predictions for variants or genomic windows. It helps connect a ranking score with the molecular tracks behind it, such as expression, accessibility, splicing, or chromatin contacts. The intended use is research prioritization and mechanistic hypothesis generation.
 
-![Genomic variants are checked, ranked, and examined through tissue-specific predicted molecular tracks.](../images/alphagenome.png)
+![Genomic variants are checked, ranked, and examined through tissue-specific predicted molecular tracks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/alphagenome.png)
 
-*Genomic variants are checked, ranked, and examined through tissue-specific predicted molecular tracks. [View the full-size workflow diagram](../images/alphagenome.png).*
+*Genomic variants are checked, ranked, and examined through tissue-specific predicted molecular tracks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/alphagenome.png).*
 
 ## Questions this skill can help you explore
 

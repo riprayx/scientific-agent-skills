@@ -6,9 +6,9 @@
 
 The QIIME 2 amplicon skill guides a bounded workflow from demultiplexed paired-end reads to amplicon sequence variants, or ASVs, and taxonomic assignments. It emphasizes primer orientation, read overlap, compatible classifiers, and per-sample read retention. The resulting artifacts preserve the processing history needed to review an amplicon study.
 
-![QIIME 2 workflow from paired-end 16S reads and a compatible classifier through validation, denoising, taxonomy, and read-retention review.](../images/qiime2-amplicon.png)
+![QIIME 2 workflow from paired-end 16S reads and a compatible classifier through validation, denoising, taxonomy, and read-retention review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qiime2-amplicon.png)
 
-*Produce sequence variants and taxonomy with traceable processing and sample-level quality review. [View the full-size workflow diagram](../images/qiime2-amplicon.png).*
+*Produce sequence variants and taxonomy with traceable processing and sample-level quality review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qiime2-amplicon.png).*
 
 ## Questions this skill can help you explore
 

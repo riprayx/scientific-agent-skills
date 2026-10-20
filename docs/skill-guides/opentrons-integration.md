@@ -8,10 +8,10 @@ This skill helps a research assistant author, review, migrate, and simulate prot
 
 The workflow is useful when a laboratory wants a reproducible robotic procedure or needs to troubleshoot a protocol. It treats software simulation, application analysis, physical setup, and assay performance as different layers of evidence.
 
-![Opentrons Integration workflow: From a specified liquid-handling procedure and robot configuration to a protocol, simulation, deck review, and operator-led physical validation](../images/opentrons-integration.png)
+![Opentrons Integration workflow: From a specified liquid-handling procedure and robot configuration to a protocol, simulation, deck review, and operator-led physical validation](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/opentrons-integration.png)
 
 *From a specified liquid-handling procedure and robot configuration to a protocol, simulation, deck review, and operator-led physical validation.
-[View the full-size workflow diagram](../images/opentrons-integration.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/opentrons-integration.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 AnnData is a storage and organization layer for annotated matrices. In single-cell work, rows usually represent cells and columns represent genes; metadata, alternative expression layers, embeddings, and analysis annotations travel with that matrix. This skill helps create, inspect, combine, subset, and save those objects while preserving the relationships needed by downstream scientific tools.
 
-![Measurement matrices and annotations are organized, checked, combined, and saved in interoperable files.](../images/anndata.png)
+![Measurement matrices and annotations are organized, checked, combined, and saved in interoperable files.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/anndata.png)
 
-*Measurement matrices and annotations are organized, checked, combined, and saved in interoperable files. [View the full-size workflow diagram](../images/anndata.png).*
+*Measurement matrices and annotations are organized, checked, combined, and saved in interoperable files. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/anndata.png).*
 
 ## Questions this skill can help you explore
 

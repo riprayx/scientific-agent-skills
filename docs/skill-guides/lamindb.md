@@ -8,10 +8,10 @@ LaminDB organizes scientific files and the metadata that describe them. This ski
 
 It is particularly useful when a project has many versions of tables or AnnData files and needs to answer both “which dataset is this?” and “how was it produced?” The workflow emphasizes validation and stable identifiers rather than relying on filenames alone.
 
-![LaminDB workflow: From biological files and typed metadata to validated artifacts, ontology annotations, tracked runs, and searchable lineage](../images/lamindb.png)
+![LaminDB workflow: From biological files and typed metadata to validated artifacts, ontology annotations, tracked runs, and searchable lineage](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/lamindb.png)
 
 *From biological files and typed metadata to validated artifacts, ontology annotations, tracked runs, and searchable lineage.
-[View the full-size workflow diagram](../images/lamindb.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/lamindb.png).*
 
 ## Questions this skill can help you explore
 

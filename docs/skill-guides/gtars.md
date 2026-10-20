@@ -6,9 +6,9 @@
 
 Gtars provides genomic interval operations, overlap counts, coverage measures, tokenization, and reference-sequence tooling through Python, Rust, and command-line interfaces. This skill helps an assistant prepare the data contract, select the appropriate interface, and inspect results. Its bundled local helpers validate inputs and prepare bounded execution plans before heavier work is run.
 
-![Genomic intervals are checked against an assembly and coordinate contract before set operations, coverage, tokenization, and output review.](../images/gtars.png)
+![Genomic intervals are checked against an assembly and coordinate contract before set operations, coverage, tokenization, and output review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/gtars.png)
 
-*Make interval semantics explicit before interpreting overlaps or replicate support. [View the full-size workflow diagram](../images/gtars.png).*
+*Make interval semantics explicit before interpreting overlaps or replicate support. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/gtars.png).*
 
 ## Questions this skill can help you explore
 

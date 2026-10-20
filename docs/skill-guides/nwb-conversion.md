@@ -8,9 +8,9 @@ Neurodata Without Borders provides a common format for neuroscience data. This s
 
 It uses NeuroConv and PyNWB to build the file, then checks schema compliance, NWB Inspector findings, and the data read back from disk. This helps a research assistant distinguish a valid container from a scientifically faithful conversion.
 
-![NWB conversion workflow for inventorying imaging and position files, defining session metadata and shared time, and checking the converted archive.](../images/nwb-conversion.png)
+![NWB conversion workflow for inventorying imaging and position files, defining session metadata and shared time, and checking the converted archive.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nwb-conversion.png)
 
-*Build a neuroscience archive with explicit timing, metadata, schema validation, and checks against the original data. [View the full-size workflow diagram](../images/nwb-conversion.png).*
+*Build a neuroscience archive with explicit timing, metadata, schema validation, and checks against the original data. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nwb-conversion.png).*
 
 ## Questions this skill can help you explore
 

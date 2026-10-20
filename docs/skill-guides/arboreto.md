@@ -6,9 +6,9 @@
 
 Arboreto uses machine learning to ask which genes help predict the expression of other genes. The skill supports GRNBoost2 and GENIE3 for building ranked candidate networks from bulk or single-cell data. It emphasizes input orientation, a compatible computational environment, and stability checks so a long edge list remains interpretable as exploratory evidence.
 
-![Expression measurements and regulator lists produce ranked associations that are checked across repeated analyses.](../images/arboreto.png)
+![Expression measurements and regulator lists produce ranked associations that are checked across repeated analyses.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/arboreto.png)
 
-*Expression measurements and regulator lists produce ranked associations that are checked across repeated analyses. [View the full-size workflow diagram](../images/arboreto.png).*
+*Expression measurements and regulator lists produce ranked associations that are checked across repeated analyses. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/arboreto.png).*
 
 ## Questions this skill can help you explore
 

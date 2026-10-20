@@ -8,10 +8,10 @@ Nextflow connects analysis steps through data dependencies and can execute them 
 
 It is useful when a study involves many samples and tools that need consistent execution. The workflow keeps sample metadata, pinned software, parameters, and reports together so computational reproducibility can be reviewed independently of scientific validity.
 
-![Nextflow workflow: From versioned inputs and pipeline configuration to connected tasks, an appropriate executor, run reports, and checked scientific outputs](../images/nextflow.png)
+![Nextflow workflow: From versioned inputs and pipeline configuration to connected tasks, an appropriate executor, run reports, and checked scientific outputs](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nextflow.png)
 
 *From versioned inputs and pipeline configuration to connected tasks, an appropriate executor, run reports, and checked scientific outputs.
-[View the full-size workflow diagram](../images/nextflow.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nextflow.png).*
 
 ## Questions this skill can help you explore
 

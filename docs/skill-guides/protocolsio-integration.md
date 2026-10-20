@@ -6,9 +6,9 @@
 
 This skill helps an assistant read protocols.io records, validate saved protocol data, and prepare reviewable exports or proposed changes. It emphasizes exact protocol versions and bounded retrieval so a research workflow can be tied to the method actually consulted. The bundled tools can read supported records when explicitly enabled; proposed writes remain plans rather than executed edits.
 
-![An identified protocol version is retrieved or loaded locally, validated with its steps and attribution, and exported or used in a nonexecuting change plan.](../images/protocolsio-integration.png)
+![An identified protocol version is retrieved or loaded locally, validated with its steps and attribution, and exported or used in a nonexecuting change plan.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/protocolsio-integration.png)
 
-*Keep method identity and version history attached to every retrieved protocol. [View the full-size workflow diagram](../images/protocolsio-integration.png).*
+*Keep method identity and version history attached to every retrieved protocol. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/protocolsio-integration.png).*
 
 ## Questions this skill can help you explore
 

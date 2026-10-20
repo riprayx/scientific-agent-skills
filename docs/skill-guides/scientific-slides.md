@@ -6,10 +6,10 @@
 
 The scientific-slides skill supports conference talks, seminars, defenses, journal clubs, and other scientific presentations. It helps an assistant plan the argument, choose visual emphasis, pace the talk, and assemble a deck in an appropriate format. Scientific claims and quantitative figures remain tied to supplied evidence throughout the design process.
 
-![Scientific-slides workflow: define the audience and time, plan a research narrative, create slides and visuals, assemble the deck, and inspect rendering and timing.](../images/scientific-slides.png)
+![Scientific-slides workflow: define the audience and time, plan a research narrative, create slides and visuals, assemble the deck, and inspect rendering and timing.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-slides.png)
 
 *From research content to an audience-focused presentation.
-[View the full-size workflow diagram](../images/scientific-slides.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-slides.png).*
 
 ## Tasks this skill can help you complete
 

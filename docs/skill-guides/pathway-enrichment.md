@@ -8,10 +8,10 @@ Pathway enrichment asks whether a set of genes is represented unusually often am
 
 It supports over-representation analysis, ranked GSEA, and guidance for per-sample gene-set scoring. The goal is a defensible functional summary with visible assumptions, rather than a list of pathway names detached from the input data.
 
-![Pathway Enrichment workflow: From gene lists or ranked data to identifier checks, justified gene sets and background, enrichment testing, and interpreted results](../images/pathway-enrichment.png)
+![Pathway Enrichment workflow: From gene lists or ranked data to identifier checks, justified gene sets and background, enrichment testing, and interpreted results](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathway-enrichment.png)
 
 *From gene lists or ranked data to identifier checks, justified gene sets and background, enrichment testing, and interpreted results.
-[View the full-size workflow diagram](../images/pathway-enrichment.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathway-enrichment.png).*
 
 ## Questions this skill can help you explore
 

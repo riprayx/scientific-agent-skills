@@ -6,9 +6,9 @@
 
 This skill structures a requested council-style discussion around a difficult decision. It generates several thinking perspectives, each emphasizing different assumptions or values, then synthesizes a conditional recommendation and a useful next step. The perspectives are simulated viewpoints from one system; their agreement adds no independent evidence and does not substitute for scientific review.
 
-![A shared evidence brief supports contrasting decision perspectives, explicit trade-offs, and a conditional next step.](../images/consciousness-council.png)
+![A shared evidence brief supports contrasting decision perspectives, explicit trade-offs, and a conditional next step.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/consciousness-council.png)
 
-*A shared evidence brief supports contrasting decision perspectives, explicit trade-offs, and a conditional next step. [View the full-size workflow diagram](../images/consciousness-council.png).*
+*A shared evidence brief supports contrasting decision perspectives, explicit trade-offs, and a conditional next step. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/consciousness-council.png).*
 
 ## Questions this skill can help you explore
 

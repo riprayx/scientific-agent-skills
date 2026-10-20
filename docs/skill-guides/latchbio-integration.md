@@ -8,10 +8,10 @@ Latch supports bioinformatics workflows that colleagues can launch through a man
 
 The goal is to turn an analysis into a repeatable workflow whose inputs, compute requirements, and outputs are understandable. It covers deployment mechanics and scientific result checking as separate responsibilities.
 
-![LatchBio Integration workflow: From typed workflow inputs and staged code to configured cloud tasks, monitored execution, and reviewed scientific outputs](../images/latchbio-integration.png)
+![LatchBio Integration workflow: From typed workflow inputs and staged code to configured cloud tasks, monitored execution, and reviewed scientific outputs](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/latchbio-integration.png)
 
 *From typed workflow inputs and staged code to configured cloud tasks, monitored execution, and reviewed scientific outputs.
-[View the full-size workflow diagram](../images/latchbio-integration.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/latchbio-integration.png).*
 
 ## Questions this skill can help you explore
 

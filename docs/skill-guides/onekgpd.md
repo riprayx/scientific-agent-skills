@@ -8,10 +8,10 @@ OneKGPd queries the extended high-coverage 1000 Genomes dataset at the individua
 
 The service supplies variant annotations and allele-frequency information from defined resource snapshots. It is useful for cohort exploration when the distinction between variants, carriers, and population-level inference remains explicit.
 
-![OneKGPd: 1000 Genomes Queries workflow: From verified GRCh38 coordinates and cohort constraints to counted queries, variant or carrier records, annotation provenance, and completeness checks](../images/onekgpd.png)
+![OneKGPd: 1000 Genomes Queries workflow: From verified GRCh38 coordinates and cohort constraints to counted queries, variant or carrier records, annotation provenance, and completeness checks](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/onekgpd.png)
 
 *From verified GRCh38 coordinates and cohort constraints to counted queries, variant or carrier records, annotation provenance, and completeness checks.
-[View the full-size workflow diagram](../images/onekgpd.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/onekgpd.png).*
 
 ## Questions this skill can help you explore
 
