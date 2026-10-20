@@ -1,4 +1,4 @@
-"""Tests for the literature-review result processing.
+"""Tests for the scientific-literature-review result processing.
 
 `search_databases` is pure list manipulation over records from several
 databases, so it is fully testable offline -- and worth testing, because every
@@ -21,7 +21,7 @@ from pathlib import Path
 
 import skill_contract
 
-SKILL_ROOT = Path(__file__).resolve().parents[2] / "skills" / "literature-review"
+SKILL_ROOT = Path(__file__).resolve().parents[2] / "skills" / "scientific-literature-review"
 SCRIPTS = SKILL_ROOT / "scripts"
 sys.path.insert(0, str(SCRIPTS))
 

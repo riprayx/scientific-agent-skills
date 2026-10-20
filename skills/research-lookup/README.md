@@ -106,7 +106,7 @@ python skills/research-lookup/scripts/research_lookup.py \
 ## Boundaries
 
 This skill compiles external evidence. It does not generate the user's unpublished
-Results or guarantee a PRISMA-complete systematic review. Use `literature-review` for
+Results or guarantee a PRISMA-complete systematic review. Use `scientific-literature-review` for
 formal database searching, screening, exclusion tracking, and risk-of-bias procedures;
 use `scientific-writing` to turn the packet into manuscript prose.
 

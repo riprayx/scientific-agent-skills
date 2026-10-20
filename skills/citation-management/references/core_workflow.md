@@ -511,15 +511,15 @@ cat validation.json
 
 #### Integration with Literature Review Skill
 
-This skill complements the `literature-review` skill:
+This skill complements the `scientific-literature-review` skill:
 
 **Literature Review Skill** → Systematic search and synthesis
 **Citation Management Skill** → Technical citation handling
 
 **Combined Workflow**:
-1. Use `literature-review` for comprehensive multi-database search
+1. Use `scientific-literature-review` for comprehensive multi-database search
 2. Use `citation-management` to extract and validate all citations
-3. Use `literature-review` to synthesize findings thematically
+3. Use `scientific-literature-review` to synthesize findings thematically
 4. Use `citation-management` to verify final bibliography accuracy
 
 ```bash

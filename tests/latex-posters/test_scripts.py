@@ -1,7 +1,7 @@
 """Tests for the latex-posters helpers.
 
 The two schematic scripts are byte-identical to the copies in
-`scientific-schematics` and `literature-review`, so their behaviour comes from
+`scientific-schematics` and `scientific-literature-review`, so their behaviour comes from
 the shared contract. What is specific here is `review_poster.sh`, the shell
 helper that renders and inspects a compiled poster.
 """

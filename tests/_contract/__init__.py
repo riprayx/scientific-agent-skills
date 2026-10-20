@@ -25,7 +25,7 @@ Two halves, split by what they need from the environment:
 
 `schematic`
     The AI schematic generator that scientific-schematics, latex-posters,
-    literature-review, and scientific-slides each ship a byte-identical copy of.
+    scientific-literature-review, and scientific-slides each ship a byte-identical copy of.
 """
 
 from __future__ import annotations

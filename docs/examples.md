@@ -1019,7 +1019,7 @@ Expected Output:
 - `database-lookup` - Query ClinicalTrials.gov for preliminary data context
 - `paper-lookup` - Search PubMed, OpenAlex for literature and citations
 - `research-grants` - Grant writing templates and guidelines
-- `literature-review` - Systematic literature analysis
+- `scientific-literature-review` - Systematic literature analysis
 - `hypothesis-generation` - Scientific hypothesis development
 - `experimental-design` - Design, randomization, blinding, and controls for each aim
 - `statistical-power` - A priori power analysis and sample-size justification
@@ -1031,7 +1031,7 @@ Expected Output:
 **Starting prompt**:
 
 ```text
-Use the research-grants, literature-review, hypothesis-generation,
+Use the research-grants, scientific-literature-review, hypothesis-generation,
 experimental-design, statistical-power, scientific-writing, peer-review, and
 citation-management skills.
 
@@ -1058,7 +1058,7 @@ Step 2: Comprehensive literature review
 - Search PubMed for relevant publications (last 10 years)
 - Query OpenAlex for citation networks
 - Identify key papers and review articles
-- Use literature-review skill to synthesize findings
+- Use scientific-literature-review skill to synthesize findings
 - Identify gaps that proposal will address
 
 Step 3: Develop specific aims
@@ -1335,13 +1335,13 @@ Expected Output:
 - `scholar-evaluation` - Qualitative, low-stakes developmental review of works
 - `dhdna-profiler` - Optional, non-evaluative characterization of reasoning style in a text
 - `citation-management` - Reference formatting
-- `literature-review` - Systematic synthesis
+- `scientific-literature-review` - Systematic synthesis
 
 **Starting prompt**:
 
 ```text
 Use the research-lookup, paper-lookup, exa-search, liteparse, markitdown,
-open-notebook, pyzotero, citation-management, and literature-review skills.
+open-notebook, pyzotero, citation-management, and scientific-literature-review skills.
 
 Goal: a systematic review with an auditable search, not a summary of whatever
 came back first.
@@ -1409,7 +1409,7 @@ Step 4b (optional): Characterizing reasoning style in a corpus
   "a few identifiable authors"
 
 Step 5: Synthesize
-- Use the literature-review skill to synthesize themes, gaps, and consensus/conflicts
+- Use the scientific-literature-review skill to synthesize themes, gaps, and consensus/conflicts
 - Report PRISMA-style counts: records identified, de-duplicated, screened, excluded
   with reasons, and included
 - Assess risk of bias with an instrument appropriate to the study designs included,

@@ -44,7 +44,7 @@ explicitly selected or the user enables that fallback.
 
 This skill compiles **external evidence**. It cannot supply the user's unpublished
 study data, decide what their Results show, or guarantee systematic-review
-completeness. For a PRISMA-style systematic review, use `literature-review` for
+completeness. For a PRISMA-style systematic review, use `scientific-literature-review` for
 protocols, database-specific searching, screening, exclusion reasons, and risk of
 bias.
 
@@ -363,13 +363,13 @@ result envelope so a batch can continue.
   `citation-management`.
 - **Paywalled source:** report that only accessible metadata/abstract text was
   reviewed.
-- **Systematic-review request:** hand off to `literature-review`.
+- **Systematic-review request:** hand off to `scientific-literature-review`.
 
 ## Related skills
 
 - `parallel-web` — advanced Search, Extract, Research, enrichment, FindAll, and
   monitoring options
-- `literature-review` — systematic review protocols, screening, and synthesis
+- `scientific-literature-review` — systematic review protocols, screening, and synthesis
 - `citation-management` — DOI/PMID validation and bibliography formatting
 - `scientific-writing` — convert the packet into section outlines and manuscript prose
 

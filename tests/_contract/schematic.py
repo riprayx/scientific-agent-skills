@@ -1,6 +1,6 @@
 """Shared tests for the AI schematic generator bundled by several skills.
 
-`scientific-schematics`, `latex-posters`, `literature-review`, and
+`scientific-schematics`, `latex-posters`, `scientific-literature-review`, and
 `scientific-slides` each ship a byte-identical
 `scripts/generate_schematic.py` (a thin CLI) and `scripts/generate_schematic_ai.py`
 (the generator). Rather than write the same tests four times, each suite
@@ -49,7 +49,7 @@ SHARED_FILES: tuple[tuple[str, tuple[str, ...]], ...] = (
         (
             "scientific-schematics",
             "latex-posters",
-            "literature-review",
+            "scientific-literature-review",
             "scientific-slides",
         ),
     ),
@@ -58,7 +58,7 @@ SHARED_FILES: tuple[tuple[str, tuple[str, ...]], ...] = (
         (
             "scientific-schematics",
             "latex-posters",
-            "literature-review",
+            "scientific-literature-review",
             "scientific-slides",
         ),
     ),

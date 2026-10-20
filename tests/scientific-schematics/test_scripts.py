@@ -1,7 +1,7 @@
 """Tests for the scientific-schematics generator.
 
 The environment-allowlist and CLI behaviour live in the shared contract, since
-`latex-posters` and `literature-review` ship byte-identical copies of both
+`latex-posters` and `scientific-literature-review` ship byte-identical copies of both
 scripts. What is specific to this skill is its bundled `example_usage.sh` and
 the document-type quality thresholds the CLI advertises.
 """

@@ -1,11 +1,11 @@
 ---
-name: literature-review
+name: scientific-literature-review
 description: Conducts systematic, scoping, and narrative literature reviews using PubMed, arXiv, bioRxiv, Semantic Scholar, and other appropriate sources. Use for research synthesis, reproducible literature searches, screening, citation checking, or preparing Markdown and PDF reviews. Tracks search coverage, records versus studies, and evidence limitations; supports meta-analysis planning but does not supply a meta-analysis engine.
 allowed-tools: Read Write Edit Bash
 license: MIT license
 compatibility: Python 3.10+ with requests; network for DOI checks and searches. Optional parallel-cli requires Parallel authentication. PDF export needs Pandoc and XeLaTeX; AI schematics need OPENROUTER_API_KEY.
 metadata:
-  version: "1.11"
+  version: "1.12"
   last-reviewed: "2026-09-30"
   skill-author: K-Dense Inc.
   openclaw:
@@ -16,7 +16,7 @@ metadata:
       description: OpenRouter API key for the skill's LLM-powered steps.
 ---
 
-# Literature Review
+# Scientific Literature Review
 
 ## Overview
 

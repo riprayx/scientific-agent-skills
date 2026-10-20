@@ -1,6 +1,6 @@
-[All skill guides](README.md) / Literature Review
+[All skill guides](README.md) / Scientific Literature Review
 
-# Literature Review
+# Scientific Literature Review
 
 **Build a transparent synthesis of research with a reproducible search and traceable claims.**
 
@@ -8,7 +8,7 @@ This skill guides systematic, scoping, and narrative literature reviews from que
 
 The workflow emphasizes what was searched, what was retrieved, and how decisions were made. Bundled utilities support record processing and document preparation; the scientific assessment remains a research activity requiring review.
 
-![Literature Review workflow: From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/literature-review.png)
+![Scientific Literature Review workflow: From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/literature-review.png)
 
 *From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations.
 [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/literature-review.png).*
@@ -42,7 +42,7 @@ Provide the review question, intended review type, topic boundaries, and any pro
 
 ## Example request
 
-> Use the literature-review skill to prepare a scoping review of methods for measuring soil microbial activity. Define the search concepts and eligibility criteria, document searches in suitable databases, and organize evidence by measurement principle and validation setting. Keep a study-to-report map and flag unavailable full texts, uncertain eligibility, and claims needing source verification.
+> Use the scientific-literature-review skill to prepare a scoping review of methods for measuring soil microbial activity. Define the search concepts and eligibility criteria, document searches in suitable databases, and organize evidence by measurement principle and validation setting. Keep a study-to-report map and flag unavailable full texts, uncertain eligibility, and claims needing source verification.
 
 *This is an illustrative research request, not a reported result.*
 
@@ -56,4 +56,4 @@ Systematic reviews need independent eligibility decisions and documented disagre
 
 The local utilities use Python 3.10+ and requests; searches and DOI checks require network access. Optional Parallel search needs its authentication. PDF export needs Pandoc and XeLaTeX. Conceptual AI schematics are optional and require an OpenRouter key; exact review counts should come from reconciled records.
 
-[Setup and technical instructions](../../skills/literature-review/SKILL.md)
+[Setup and technical instructions](../../skills/scientific-literature-review/SKILL.md)

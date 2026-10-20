@@ -9,7 +9,7 @@ import pytest
 import requests
 import skill_contract
 
-SKILL_ROOT = Path(__file__).resolve().parents[2] / 'skills' / 'literature-review'
+SKILL_ROOT = Path(__file__).resolve().parents[2] / 'skills' / 'scientific-literature-review'
 SCRIPTS = SKILL_ROOT / 'scripts'
 sys.path.insert(0, str(SCRIPTS))
 

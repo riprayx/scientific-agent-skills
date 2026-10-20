@@ -85,7 +85,7 @@ packages = [
 [skills.pyzotero]
 packages = ["pyzotero", "bibtexparser", "python-dotenv"]
 
-[skills.literature-review]
+[skills.scientific-literature-review]
 packages = ["requests", "python-dotenv"]
 
 [skills.research-lookup]

@@ -30,7 +30,7 @@ Common starting points:
 | Numerical and physical simulation | [MATLAB](skills/matlab/SKILL.md), [FluidSim](skills/fluidsim/SKILL.md), [PyBaMM](skills/pybamm/SKILL.md) |
 | Machine learning and deep learning | [scikit-learn](skills/scikit-learn/SKILL.md), [PyTorch Lightning](skills/pytorch-lightning/SKILL.md), [PyTorch Geometric](skills/torch-geometric/SKILL.md) |
 | Large datasets, GPU computing | [Dask](skills/dask/SKILL.md), [Polars](skills/polars/SKILL.md), [Zarr](skills/zarr-python/SKILL.md), [GPU Optimization](skills/optimize-for-gpu/SKILL.md) |
-| Scholarly papers and citations | [Paper Lookup](skills/paper-lookup/SKILL.md), [Literature Review](skills/literature-review/SKILL.md), [Citation Management](skills/citation-management/SKILL.md) |
+| Scholarly papers and citations | [Paper Lookup](skills/paper-lookup/SKILL.md), [Scientific Literature Review](skills/scientific-literature-review/SKILL.md), [Citation Management](skills/citation-management/SKILL.md) |
 | Research figures, talks and publication | [Scientific Visualization](skills/scientific-visualization/SKILL.md), [Scientific Slides](skills/scientific-slides/SKILL.md), [Scientific Writing](skills/scientific-writing/SKILL.md) |
 
 ## Get started
