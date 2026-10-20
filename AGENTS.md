@@ -10,7 +10,7 @@ more length, plus the pull-request process.
 ## What belongs here
 
 **In scope:** a narrow skill for one scientific package, database, platform, or research workflow —
-`scanpy`, `depmap`, `benchling-integration`, `experimental-design`.
+`sympy`, `pymoo`, `scientific-writing`, `experimental-design`.
 
 **Out of scope**, and routinely declined:
 
