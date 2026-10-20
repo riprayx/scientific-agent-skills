@@ -8,10 +8,10 @@ This skill helps a research assistant retrieve papers, preprints, citation links
 
 It is useful for a focused lookup or bounded discovery task: choose the database suited to the question, inspect the actual response, and preserve identifiers, query parameters, access dates, and completeness limits.
 
-![Paper Lookup workflow: From a specific literature question to appropriate database queries, checked records, accessible full text, and reproducible retrieval provenance](../images/paper-lookup.png)
+![Paper Lookup workflow: From a specific literature question to appropriate database queries, checked records, accessible full text, and reproducible retrieval provenance](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paper-lookup.png)
 
 *From a specific literature question to appropriate database queries, checked records, accessible full text, and reproducible retrieval provenance.
-[View the full-size workflow diagram](../images/paper-lookup.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paper-lookup.png).*
 
 ## Questions this skill can help you explore
 

@@ -6,9 +6,9 @@
 
 This skill uses Folklore’s public service to inspect one supported germline variant or retrieve ClinGen gene–disease validity assertions. It preserves evidence provenance, returned classifications, literature links, and the difference between an unresolved identifier and an unavailable service. The workflow is bounded to public identifiers and professional evidence review, without patient-specific inputs or interpretation.
 
-![A supported public identifier leads to explicit resolution outcomes, source-linked evidence, and literature review.](../images/folklore-variant-evidence.png)
+![A supported public identifier leads to explicit resolution outcomes, source-linked evidence, and literature review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/folklore-variant-evidence.png)
 
-*A supported public identifier leads to explicit resolution outcomes, source-linked evidence, and literature review. [View the full-size workflow diagram](../images/folklore-variant-evidence.png).*
+*A supported public identifier leads to explicit resolution outcomes, source-linked evidence, and literature review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/folklore-variant-evidence.png).*
 
 ## Questions this skill can help you explore
 

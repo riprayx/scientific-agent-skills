@@ -6,9 +6,9 @@
 
 This skill covers the Biohub esm SDK for ESM3 multimodal generation, ESMC sequence embeddings, and ESMFold2 structure prediction. It helps select the appropriate model, preserve residue and chain identities, handle local or hosted inference, and validate output shape and meaning. It distinguishes these tools from the separate legacy fair-esm package that shares the same Python import name.
 
-![Explicit protein inputs and model choices lead to generated sequences, residue representations, or predicted structures with provenance.](../images/esm.png)
+![Explicit protein inputs and model choices lead to generated sequences, residue representations, or predicted structures with provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/esm.png)
 
-*Explicit protein inputs and model choices lead to generated sequences, residue representations, or predicted structures with provenance. [View the full-size workflow diagram](../images/esm.png).*
+*Explicit protein inputs and model choices lead to generated sequences, residue representations, or predicted structures with provenance. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/esm.png).*
 
 ## Questions this skill can help you explore
 

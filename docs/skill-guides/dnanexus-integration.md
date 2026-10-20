@@ -6,9 +6,9 @@
 
 This skill connects local scientific workflows with the DNAnexus platform through the dx command-line tools and dxpy. It covers data transfer, project organization, apps and applets, workflow import, execution monitoring, and cost controls. The goal is an operationally reproducible workload whose platform configuration and actual completion can be inspected alongside its scientific outputs.
 
-![Project data and workflow specifications become controlled cloud executions with monitored status and verified outputs.](../images/dnanexus-integration.png)
+![Project data and workflow specifications become controlled cloud executions with monitored status and verified outputs.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dnanexus-integration.png)
 
-*Project data and workflow specifications become controlled cloud executions with monitored status and verified outputs. [View the full-size workflow diagram](../images/dnanexus-integration.png).*
+*Project data and workflow specifications become controlled cloud executions with monitored status and verified outputs. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dnanexus-integration.png).*
 
 ## Questions this skill can help you explore
 

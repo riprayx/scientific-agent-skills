@@ -6,9 +6,9 @@
 
 Astronomy combines measurements expressed in different frames, time scales, physical units, and file formats. The Astropy skill helps keep those conventions explicit while reading FITS data, manipulating catalogs, transforming sky coordinates, using image world-coordinate systems, and calculating quantities under a chosen cosmology. It supports the foundations of an analysis rather than prescribing one astronomical inference.
 
-![Astronomical measurements are read, assigned explicit conventions, transformed, and preserved with metadata.](../images/astropy.png)
+![Astronomical measurements are read, assigned explicit conventions, transformed, and preserved with metadata.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/astropy.png)
 
-*Astronomical measurements are read, assigned explicit conventions, transformed, and preserved with metadata. [View the full-size workflow diagram](../images/astropy.png).*
+*Astronomical measurements are read, assigned explicit conventions, transformed, and preserved with metadata. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/astropy.png).*
 
 ## Questions this skill can help you explore
 

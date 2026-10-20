@@ -6,10 +6,10 @@
 
 The SimPy skill helps build process-based discrete-event simulations for systems in which entities wait, compete for resources, and trigger events. Examples include laboratory queues, service operations, production processes, and logistics. It guides both model implementation and the checks needed to interpret simulation outputs as a study of a defined system.
 
-![SimPy workflow: define entities and resources, model event processes, validate behavior, run independent replications, and summarize queue and performance measures.](../images/simpy.png)
+![SimPy workflow: define entities and resources, model event processes, validate behavior, run independent replications, and summarize queue and performance measures.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/simpy.png)
 
 *From a conceptual process model to reproducible simulation experiments.
-[View the full-size workflow diagram](../images/simpy.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/simpy.png).*
 
 ## Questions this skill can help you explore
 

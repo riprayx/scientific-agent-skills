@@ -6,9 +6,9 @@
 
 FlowIO is a low-level reader and writer for Flow Cytometry Standard files. This skill covers metadata and channel inspection, event-array extraction, multi-dataset files, tabular export, and writing FCS 3.1 files. It helps distinguish the decoded measurements from metadata-based scaling, leaving compensation, biological gating, and population analysis to a dedicated cytometry workflow.
 
-![FCS headers and channels are inspected before event extraction or controlled rewriting, followed by read-back checks.](../images/flowio.png)
+![FCS headers and channels are inspected before event extraction or controlled rewriting, followed by read-back checks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/flowio.png)
 
-*FCS headers and channels are inspected before event extraction or controlled rewriting, followed by read-back checks. [View the full-size workflow diagram](../images/flowio.png).*
+*FCS headers and channels are inspected before event extraction or controlled rewriting, followed by read-back checks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/flowio.png).*
 
 ## Questions this skill can help you explore
 

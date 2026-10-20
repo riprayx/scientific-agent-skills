@@ -8,10 +8,10 @@ Custom holders, mounts, adapters, and fixtures succeed only when they fit the eq
 
 It covers microfluidic hardware, optomechanics, labware adapters, and behavioral rigs. The deliverable includes editable source, fabrication files, dimensional evidence, and a visual review, so another researcher can understand and revise the design.
 
-![Laboratory Hardware CAD workflow: From interface dimensions and fabrication constraints to parametric geometry, measured checks, visual inspection, and fabrication files](../images/lab-hardware-cad.png)
+![Laboratory Hardware CAD workflow: From interface dimensions and fabrication constraints to parametric geometry, measured checks, visual inspection, and fabrication files](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/lab-hardware-cad.png)
 
 *From interface dimensions and fabrication constraints to parametric geometry, measured checks, visual inspection, and fabrication files.
-[View the full-size workflow diagram](../images/lab-hardware-cad.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/lab-hardware-cad.png).*
 
 ## Questions this skill can help you explore
 

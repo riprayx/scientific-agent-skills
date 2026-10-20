@@ -6,9 +6,9 @@
 
 DataLad combines Git’s version history with git-annex management of large file content. It lets researchers clone dataset structure, retrieve only the bytes they need, work with nested datasets, and record commands together with input and output declarations. This skill covers data access, provenance, rerunning analyses, and publication to suitable metadata and storage destinations.
 
-![Versioned dataset structure connects selectively retrieved content, recorded computations, and reproducible derived artifacts.](../images/datalad.png)
+![Versioned dataset structure connects selectively retrieved content, recorded computations, and reproducible derived artifacts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/datalad.png)
 
-*Versioned dataset structure connects selectively retrieved content, recorded computations, and reproducible derived artifacts. [View the full-size workflow diagram](../images/datalad.png).*
+*Versioned dataset structure connects selectively retrieved content, recorded computations, and reproducible derived artifacts. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/datalad.png).*
 
 ## Questions this skill can help you explore
 

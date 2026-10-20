@@ -6,10 +6,10 @@
 
 The PyHealth skill guides clinical machine-learning workflows using electronic health records, physiological signals, imaging tasks, and medical codes. It helps connect a dataset to a prediction task, compatible model, training process, and evaluation. Particular attention goes to what information was available at prediction time and whether held-out patients remain independent.
 
-![PyHealth workflow: define a clinical task, prepare authorized records, split patients, train a compatible model, and evaluate held-out predictions.](../images/pyhealth.png)
+![PyHealth workflow: define a clinical task, prepare authorized records, split patients, train a compatible model, and evaluate held-out predictions.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyhealth.png)
 
 *From clinical records to a clearly defined prediction experiment.
-[View the full-size workflow diagram](../images/pyhealth.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyhealth.png).*
 
 ## Questions this skill can help you explore
 

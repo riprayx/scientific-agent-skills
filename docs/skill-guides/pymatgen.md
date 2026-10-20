@@ -6,10 +6,10 @@
 
 The pymatgen skill helps an assistant inspect, validate, convert, and transform crystal structures and molecular data. It also supports symmetry analysis, computed phase diagrams, electronic-structure file handling, and bounded Materials Project queries. The workflow emphasizes units, coordinate conventions, parser warnings, and the origin of every derived structure.
 
-![pymatgen workflow: validate a structure, inspect symmetry and composition, perform documented transformations or analyses, and preserve derived artifacts.](../images/pymatgen.png)
+![pymatgen workflow: validate a structure, inspect symmetry and composition, perform documented transformations or analyses, and preserve derived artifacts.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymatgen.png)
 
 *From structure files to traceable materials analysis.
-[View the full-size workflow diagram](../images/pymatgen.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pymatgen.png).*
 
 ## Questions this skill can help you explore
 

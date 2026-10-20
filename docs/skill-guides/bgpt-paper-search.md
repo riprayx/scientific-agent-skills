@@ -6,9 +6,9 @@
 
 BGPT Paper Search retrieves literature evidence by topic or DOI, including claims extracted from full text and the experiments associated with them. It helps build an evidence table that goes beyond an abstract by retaining reported statistics, experimental scope, limitations, and provenance. The skill also explains how to distinguish service and extraction failures from a genuinely empty search result.
 
-![A research question or DOI leads to extracted claims, supporting experiment details, and source-grounded evidence review.](../images/bgpt-paper-search.png)
+![A research question or DOI leads to extracted claims, supporting experiment details, and source-grounded evidence review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bgpt-paper-search.png)
 
-*A research question or DOI leads to extracted claims, supporting experiment details, and source-grounded evidence review. [View the full-size workflow diagram](../images/bgpt-paper-search.png).*
+*A research question or DOI leads to extracted claims, supporting experiment details, and source-grounded evidence review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bgpt-paper-search.png).*
 
 ## Questions this skill can help you explore
 

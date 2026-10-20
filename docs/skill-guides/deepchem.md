@@ -6,9 +6,9 @@
 
 DeepChem connects molecular data to featurizers, benchmark datasets, and machine-learning models. This skill focuses on property prediction and evaluation, including fingerprints, graph models, missing labels, and explicitly configured pretrained encoders. It helps a researcher distinguish successful training from evidence that a model can predict new compounds in the intended setting.
 
-![Chemically identified records are featurized, split, trained, and evaluated with preserved label masks and target units.](../images/deepchem.png)
+![Chemically identified records are featurized, split, trained, and evaluated with preserved label masks and target units.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deepchem.png)
 
-*Chemically identified records are featurized, split, trained, and evaluated with preserved label masks and target units. [View the full-size workflow diagram](../images/deepchem.png).*
+*Chemically identified records are featurized, split, trained, and evaluated with preserved label masks and target units. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deepchem.png).*
 
 ## Questions this skill can help you explore
 

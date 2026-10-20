@@ -6,9 +6,9 @@
 
 The Tellurium skill supports deterministic biochemical time courses from local SBML or Antimony models. It helps an assistant inspect units and reaction semantics, compare independent parameter conditions, and export a reproducible simulation experiment. The workflow includes replay of a COMBINE archive so the handoff contains more than a notebook's transient state.
 
-![Tellurium workflow for inspecting a kinetic model and its units, comparing parameter conditions, and exporting and replaying a COMBINE archive.](../images/tellurium.png)
+![Tellurium workflow for inspecting a kinetic model and its units, comparing parameter conditions, and exporting and replaying a COMBINE archive.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tellurium.png)
 
-*Simulate biochemical time courses and package the exact models and experiment for reproducible replay. [View the full-size workflow diagram](../images/tellurium.png).*
+*Simulate biochemical time courses and package the exact models and experiment for reproducible replay. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tellurium.png).*
 
 ## Questions this skill can help you explore
 

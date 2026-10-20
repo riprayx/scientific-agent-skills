@@ -8,9 +8,9 @@ This skill uses nmrglue to process uniformly sampled complex one-dimensional NMR
 
 Its main value is preserving the acquisition and processing conventions that determine the ppm axis and signal shape. It supports reproducible spectral processing, while compound identification, resonance assignment, and concentration determination require additional evidence and methods.
 
-![nmrglue workflow from raw NMR signal and metadata through processing, spectrum review, and signed integration with documented units.](../images/nmrglue.png)
+![nmrglue workflow from raw NMR signal and metadata through processing, spectrum review, and signed integration with documented units.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nmrglue.png)
 
-*Process NMR signals into reviewable spectra and integrals while preserving acquisition and processing choices. [View the full-size workflow diagram](../images/nmrglue.png).*
+*Process NMR signals into reviewable spectra and integrals while preserving acquisition and processing choices. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/nmrglue.png).*
 
 ## Questions this skill can help you explore
 

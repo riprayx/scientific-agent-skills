@@ -6,9 +6,9 @@
 
 COBRApy represents metabolism as reactions, metabolites, genes, and bounds on feasible fluxes. This skill guides flux balance analysis, variability analysis, knockout screens, growth-media exploration, sampling, production envelopes, and model-building checks. It helps turn a metabolic reconstruction into clearly stated predictions and engineering hypotheses, while keeping the assumptions behind the objective and constraints visible.
 
-![A reviewed metabolic model and environmental constraints lead to flux predictions, variability, and testable design hypotheses.](../images/cobrapy.png)
+![A reviewed metabolic model and environmental constraints lead to flux predictions, variability, and testable design hypotheses.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cobrapy.png)
 
-*A reviewed metabolic model and environmental constraints lead to flux predictions, variability, and testable design hypotheses. [View the full-size workflow diagram](../images/cobrapy.png).*
+*A reviewed metabolic model and environmental constraints lead to flux predictions, variability, and testable design hypotheses. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cobrapy.png).*
 
 ## Questions this skill can help you explore
 

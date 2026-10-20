@@ -6,9 +6,9 @@
 
 Waypoint represents microbiome samples as ordered taxonomic tokens and uses pretrained models to produce sample embeddings or support downstream prediction. This skill connects profiler-output conversion, vocabulary checks, model use, and benchmarking. It also covers the associated Atlas corpus and Compass benchmark while separating documented workflows from results that still require a completed scientific experiment.
 
-![Microbiome abundance profiles are converted, checked against a fixed vocabulary, embedded or modeled, and evaluated with study-aware splits.](../images/waypoint-bio.png)
+![Microbiome abundance profiles are converted, checked against a fixed vocabulary, embedded or modeled, and evaluated with study-aware splits.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/waypoint-bio.png)
 
-*Check what taxonomic information the model actually receives before interpreting its outputs. [View the full-size workflow diagram](../images/waypoint-bio.png).*
+*Check what taxonomic information the model actually receives before interpreting its outputs. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/waypoint-bio.png).*
 
 ## Questions this skill can help you explore
 

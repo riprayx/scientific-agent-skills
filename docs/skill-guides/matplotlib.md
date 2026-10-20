@@ -8,10 +8,10 @@ Matplotlib is a Python plotting library for turning numerical data into figures.
 
 It is useful when the figure needs precise control beyond a default chart: shared axes, carefully placed annotations, scientific image coordinates, customized legends, or consistent comparisons across panels. The plotting choices remain connected to the meaning of the data.
 
-![Matplotlib workflow: From checked numerical data and a defined figure purpose to structured plots, consistent styling, inspected exports, and reusable source](../images/matplotlib.png)
+![Matplotlib workflow: From checked numerical data and a defined figure purpose to structured plots, consistent styling, inspected exports, and reusable source](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matplotlib.png)
 
 *From checked numerical data and a defined figure purpose to structured plots, consistent styling, inspected exports, and reusable source.
-[View the full-size workflow diagram](../images/matplotlib.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matplotlib.png).*
 
 ## Questions this skill can help you explore
 

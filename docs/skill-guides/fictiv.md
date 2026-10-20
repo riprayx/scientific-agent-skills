@@ -6,9 +6,9 @@
 
 The Fictiv skill helps operate the manufacturing service through a user’s logged-in browser. It covers CAD upload, process and material selection, finishes, threads, tolerances, inspection requirements, manufacturability feedback, quotes, and order tracking. For laboratory work, it connects a part design with the practical requirements that determine whether a supplier can make the intended component.
 
-![CAD files and manufacturing requirements move through configuration, manufacturability review, quotation, and authorized ordering.](../images/fictiv.png)
+![CAD files and manufacturing requirements move through configuration, manufacturability review, quotation, and authorized ordering.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/fictiv.png)
 
-*CAD files and manufacturing requirements move through configuration, manufacturability review, quotation, and authorized ordering. [View the full-size workflow diagram](../images/fictiv.png).*
+*CAD files and manufacturing requirements move through configuration, manufacturability review, quotation, and authorized ordering. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/fictiv.png).*
 
 ## Questions this skill can help you explore
 

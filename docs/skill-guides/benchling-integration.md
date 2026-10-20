@@ -6,9 +6,9 @@
 
 The Benchling integration skill helps a research assistant query and update a laboratory’s Benchling environment using its Python SDK and REST API. It covers registry entities, sequence records, inventory, electronic notebook entries, workflows, apps, and warehouse queries. The emphasis is on matching the laboratory’s actual schemas and preserving identifiers so automated work can be checked and reconciled.
 
-![Laboratory schemas and identifiers connect controlled reads, prepared updates, and verified Benchling records.](../images/benchling-integration.png)
+![Laboratory schemas and identifiers connect controlled reads, prepared updates, and verified Benchling records.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/benchling-integration.png)
 
-*Laboratory schemas and identifiers connect controlled reads, prepared updates, and verified Benchling records. [View the full-size workflow diagram](../images/benchling-integration.png).*
+*Laboratory schemas and identifiers connect controlled reads, prepared updates, and verified Benchling records. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/benchling-integration.png).*
 
 ## Questions this skill can help you explore
 

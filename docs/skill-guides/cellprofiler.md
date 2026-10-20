@@ -6,9 +6,9 @@
 
 This skill guides a bounded CellProfiler assay for nuclear segmentation, counts, and per-object fluorescence measurements. It connects image manifests, a reusable pipeline, headless batch execution, overlays, and measurement quality checks. The supplied assay expects one two-dimensional grayscale nuclear TIFF channel per field with bright nuclei on a dark background.
 
-![CellProfiler workflow for checking microscopy inputs, configuring segmentation, running a measurement pipeline, and reviewing exported results.](../images/cellprofiler.png)
+![CellProfiler workflow for checking microscopy inputs, configuring segmentation, running a measurement pipeline, and reviewing exported results.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cellprofiler.png)
 
-*Turn microscopy images into measurements with explicit segmentation and quality checks. [View the full-size workflow diagram](../images/cellprofiler.png).*
+*Turn microscopy images into measurements with explicit segmentation and quality checks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cellprofiler.png).*
 
 ## Questions this skill can help you explore
 

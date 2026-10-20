@@ -8,9 +8,9 @@ MAGeCK analyzes pooled CRISPR experiments by comparing the abundance of guide RN
 
 It supports knockout, CRISPR interference, and CRISPR activation screens. The emphasis is on understanding what the contrast measures and whether the guide-level data support the apparent gene-level signal.
 
-![MAGeCK workflow from guide-count and experimental-design checks through normalization, gene ranking, and direction-specific significance review.](../images/mageck.png)
+![MAGeCK workflow from guide-count and experimental-design checks through normalization, gene ranking, and direction-specific significance review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/mageck.png)
 
-*Analyze a pooled CRISPR screen while keeping guide quality, contrast direction, and false discovery rates visible. [View the full-size workflow diagram](../images/mageck.png).*
+*Analyze a pooled CRISPR screen while keeping guide quality, contrast direction, and false discovery rates visible. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/mageck.png).*
 
 ## Questions this skill can help you explore
 

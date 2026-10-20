@@ -6,9 +6,9 @@
 
 PufferLib supports reinforcement-learning environments, parallel environment execution, policies, and training workflows. This skill helps an assistant choose the appropriate version and review environment behavior before a larger experiment. Its bundled tools provide local synthetic checks and plans for the documented 3.0 and pinned 4.0 profiles. Native 5.0 training needs its separate build workflow and compatible hardware.
 
-![A selected PufferLib version and environment contract are checked before vectorization, policy planning, controlled training, and independent evaluation.](../images/pufferlib.png)
+![A selected PufferLib version and environment contract are checked before vectorization, policy planning, controlled training, and independent evaluation.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pufferlib.png)
 
-*Establish what an environment means and how it will be evaluated before measuring learning performance. [View the full-size workflow diagram](../images/pufferlib.png).*
+*Establish what an environment means and how it will be evaluated before measuring learning performance. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pufferlib.png).*
 
 ## Questions this skill can help you explore
 

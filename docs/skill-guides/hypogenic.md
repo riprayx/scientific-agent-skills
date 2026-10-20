@@ -8,10 +8,10 @@ HypoGeniC proposes written explanations for patterns in labeled text and evaluat
 
 The resulting “hypotheses” are candidate textual patterns. They can help organize further investigation, but they do not establish scientific mechanisms.
 
-![HypoGeniC workflow: From labeled text and checked data splits to a reviewed hypothesis bank and held-out prediction evaluation](../images/hypogenic.png)
+![HypoGeniC workflow: From labeled text and checked data splits to a reviewed hypothesis bank and held-out prediction evaluation](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hypogenic.png)
 
 *From labeled text and checked data splits to a reviewed hypothesis bank and held-out prediction evaluation.
-[View the full-size workflow diagram](../images/hypogenic.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hypogenic.png).*
 
 ## Questions this skill can help you explore
 

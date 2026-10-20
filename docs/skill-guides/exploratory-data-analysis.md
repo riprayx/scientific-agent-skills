@@ -6,9 +6,9 @@
 
 This skill provides bounded, deterministic profiles for selected scientific formats, along with a framework for interpreting missingness, data structure, outliers, and potential leakage. Core tools inspect CSV, TSV, and JSON; optional readers provide carefully limited array, sequence, HDF5, or image inspection. Its reports describe the scanned scope and preserve the distinction between data inspection and scientific inference.
 
-![Authorized local files are inventoried, profiled within explicit bounds, and reviewed with their study context.](../images/exploratory-data-analysis.png)
+![Authorized local files are inventoried, profiled within explicit bounds, and reviewed with their study context.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/exploratory-data-analysis.png)
 
-*Authorized local files are inventoried, profiled within explicit bounds, and reviewed with their study context. [View the full-size workflow diagram](../images/exploratory-data-analysis.png).*
+*Authorized local files are inventoried, profiled within explicit bounds, and reviewed with their study context. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/exploratory-data-analysis.png).*
 
 ## Questions this skill can help you explore
 

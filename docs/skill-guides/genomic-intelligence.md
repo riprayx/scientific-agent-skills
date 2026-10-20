@@ -6,9 +6,9 @@
 
 This skill connects a research assistant to hosted DNA models for promoter regions, splice sites, enhancer activity, chromatin features, gene annotation, and expression prediction. You can start with a sequence or acquire a reference sequence from a gene or genomic region. The models run on the provider's infrastructure, so the workflow does not require a local GPU or downloaded model weights.
 
-![A DNA sequence is acquired, checked, submitted to a selected hosted model, and returned as structured genomic predictions.](../images/genomic-intelligence.png)
+![A DNA sequence is acquired, checked, submitted to a selected hosted model, and returned as structured genomic predictions.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/genomic-intelligence.png)
 
-*From a defined DNA sequence and biological context to traceable model predictions. [View the full-size workflow diagram](../images/genomic-intelligence.png).*
+*From a defined DNA sequence and biological context to traceable model predictions. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/genomic-intelligence.png).*
 
 ## Questions this skill can help you explore
 

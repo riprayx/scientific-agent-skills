@@ -6,9 +6,9 @@
 
 GeoPandas brings points, lines, and polygons into a table-oriented Python workflow. This skill helps an assistant inspect vector datasets, choose coordinate transformations, assess geometry quality, and perform spatial analyses with explicit assumptions. It also includes local audit tools for checking proposed operations and outputs without exposing precise coordinates in their reports.
 
-![Local vector data pass through inventory, coordinate and geometry checks, spatial-join review, and an explicit export plan.](../images/geopandas.png)
+![Local vector data pass through inventory, coordinate and geometry checks, spatial-join review, and an explicit export plan.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geopandas.png)
 
-*Keep spatial measurements and feature relationships traceable from input layer to output. [View the full-size workflow diagram](../images/geopandas.png).*
+*Keep spatial measurements and feature relationships traceable from input layer to output. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geopandas.png).*
 
 ## Questions this skill can help you explore
 

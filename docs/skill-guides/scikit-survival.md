@@ -6,10 +6,10 @@
 
 The scikit-survival skill supports survival prediction with right-censored data, including model selection, probability prediction, and censoring-aware evaluation. It also covers nonparametric cumulative incidence for competing risks. The workflow keeps event definitions, risk scores, survival probabilities, and the support of the observed follow-up distinct.
 
-![Scikit-survival workflow: define events and censoring, split data, fit a survival pipeline, predict at supported times, and evaluate discrimination and probability error.](../images/scikit-survival.png)
+![Scikit-survival workflow: define events and censoring, split data, fit a survival pipeline, predict at supported times, and evaluate discrimination and probability error.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-survival.png)
 
 *From time-to-event records to carefully defined survival predictions.
-[View the full-size workflow diagram](../images/scikit-survival.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-survival.png).*
 
 ## Questions this skill can help you explore
 

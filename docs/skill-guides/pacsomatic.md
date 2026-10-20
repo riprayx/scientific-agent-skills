@@ -8,10 +8,10 @@ This skill prepares and launches the nf-core/pacsomatic workflow for one matched
 
 The bundled helper makes the computational setup reviewable. It does not determine whether the samples are correctly matched or whether the resulting variant analysis is clinically valid.
 
-![pacsomatic workflow: From a documented HiFi tumor–normal pair and reference choice to launch artifacts, runtime checks, monitored execution, and output review](../images/pacsomatic.png)
+![pacsomatic workflow: From a documented HiFi tumor–normal pair and reference choice to launch artifacts, runtime checks, monitored execution, and output review](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pacsomatic.png)
 
 *From a documented HiFi tumor–normal pair and reference choice to launch artifacts, runtime checks, monitored execution, and output review.
-[View the full-size workflow diagram](../images/pacsomatic.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pacsomatic.png).*
 
 ## Questions this skill can help you explore
 

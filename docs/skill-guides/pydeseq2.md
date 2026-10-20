@@ -6,10 +6,10 @@
 
 The PyDESeq2 skill guides bulk RNA-seq differential-expression analysis in Python. It connects count validation, statistical modeling, contrasts, and visualization so that a gene table answers a stated comparison. It also supports appropriately prepared donor-level pseudobulk counts when the experimental unit and study design are preserved.
 
-![PyDESeq2 workflow: validate counts and sample metadata, specify the design, fit a count model, test a contrast, and review differential-expression results.](../images/pydeseq2.png)
+![PyDESeq2 workflow: validate counts and sample metadata, specify the design, fit a count model, test a contrast, and review differential-expression results.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pydeseq2.png)
 
 *From gene counts and biological replicates to interpretable expression comparisons.
-[View the full-size workflow diagram](../images/pydeseq2.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pydeseq2.png).*
 
 ## Questions this skill can help you explore
 

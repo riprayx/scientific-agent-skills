@@ -6,10 +6,10 @@
 
 The pyOpenMS skill supports proteomics and metabolomics data processing through Python bindings to OpenMS. It combines reusable workflows for inspecting spectra, detecting features, aligning runs, exporting intensity matrices, and reviewing identifications. It is useful when the analysis needs more than a simple comparison between two spectra.
 
-![pyOpenMS workflow: inspect mass-spectrometry files, process spectra, detect and align features, quantify signals, and review annotation confidence.](../images/pyopenms.png)
+![pyOpenMS workflow: inspect mass-spectrometry files, process spectra, detect and align features, quantify signals, and review annotation confidence.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyopenms.png)
 
 *From LC–MS data to reviewed features and quantitative outputs.
-[View the full-size workflow diagram](../images/pyopenms.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyopenms.png).*
 
 ## Questions this skill can help you explore
 

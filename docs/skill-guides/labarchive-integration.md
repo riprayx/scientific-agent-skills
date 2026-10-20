@@ -8,10 +8,10 @@ This skill helps a research assistant plan and implement LabArchives integration
 
 It also provides local helpers for constructing request plans and inspecting LabArchives containers. This is useful when a laboratory wants a reproducible bridge between its existing tools and its record system without relying on guessed endpoints or authentication conventions.
 
-![LabArchives Integration workflow: From the selected notebook or inventory interface to local request planning, authorized operations, and verified record handling](../images/labarchive-integration.png)
+![LabArchives Integration workflow: From the selected notebook or inventory interface to local request planning, authorized operations, and verified record handling](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/labarchive-integration.png)
 
 *From the selected notebook or inventory interface to local request planning, authorized operations, and verified record handling.
-[View the full-size workflow diagram](../images/labarchive-integration.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/labarchive-integration.png).*
 
 ## Questions this skill can help you explore
 

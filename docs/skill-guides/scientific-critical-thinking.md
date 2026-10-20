@@ -6,10 +6,10 @@
 
 The scientific-critical-thinking skill guides evidence appraisal across study design, bias, statistical interpretation, and applicability. It helps an assistant extract the relevant result before judging it, distinguish different kinds of claims, and write specific, constructive critiques. It also explains when formal risk-of-bias or certainty frameworks are appropriate.
 
-![Scientific-critical-thinking workflow: define the claim, extract evidence, assess design and analysis, apply a suitable appraisal framework, and write a traceable critique.](../images/scientific-critical-thinking.png)
+![Scientific-critical-thinking workflow: define the claim, extract evidence, assess design and analysis, apply a suitable appraisal framework, and write a traceable critique.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-critical-thinking.png)
 
 *From a scientific claim to a proportionate assessment of its support and limitations.
-[View the full-size workflow diagram](../images/scientific-critical-thinking.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-critical-thinking.png).*
 
 ## Questions this skill can help you explore
 

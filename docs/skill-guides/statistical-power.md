@@ -6,10 +6,10 @@
 
 The statistical-power skill helps calculate sample size, power, minimum detectable effects, and power curves for research planning. It supports analytical calculations for suitable standard designs and simulation-based work when the planned model is more complex. The emphasis is on transparent assumptions and sensitivity ranges rather than a single apparently definitive sample number.
 
-![Statistical-power workflow: define the design and important effect, choose assumptions, calculate power or sample size, examine sensitivity, and account for study constraints.](../images/statistical-power.png)
+![Statistical-power workflow: define the design and important effect, choose assumptions, calculate power or sample size, examine sensitivity, and account for study constraints.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statistical-power.png)
 
 *From a planned scientific comparison to an explicit sample-size justification.
-[View the full-size workflow diagram](../images/statistical-power.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/statistical-power.png).*
 
 ## Questions this skill can help you explore
 

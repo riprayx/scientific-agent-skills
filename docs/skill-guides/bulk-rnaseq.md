@@ -6,9 +6,9 @@
 
 The bulk RNA-seq skill covers the route from sequencing reads or quantification files to a validated gene-level count matrix. It guides sample checks, read quality control, reference selection, quantification, and the handoff to a separate differential-expression analysis. It supports an nf-core/rnaseq route and standalone workflows using tools such as STAR, featureCounts, and Salmon.
 
-![RNA-seq reads or quantifications pass through quality checks and count assembly into a documented statistical handoff.](../images/bulk-rnaseq.png)
+![RNA-seq reads or quantifications pass through quality checks and count assembly into a documented statistical handoff.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bulk-rnaseq.png)
 
-*RNA-seq reads or quantifications pass through quality checks and count assembly into a documented statistical handoff. [View the full-size workflow diagram](../images/bulk-rnaseq.png).*
+*RNA-seq reads or quantifications pass through quality checks and count assembly into a documented statistical handoff. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bulk-rnaseq.png).*
 
 ## Questions this skill can help you explore
 

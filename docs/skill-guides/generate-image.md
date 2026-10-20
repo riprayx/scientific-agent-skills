@@ -6,9 +6,9 @@
 
 This skill generates and edits images through OpenRouter’s image API. It supports artwork, concept images, presentation visuals, and reference-based compositing, with model-specific choices for dimensions, formats, and transparency. For scientists, it is useful when an explanatory or decorative image is needed, while technical pathways, circuits, and evidence-bearing diagrams require their own accuracy-focused workflow.
 
-![A visual brief and optional reference images lead to a model request, saved artwork, and visual review.](../images/generate-image.png)
+![A visual brief and optional reference images lead to a model request, saved artwork, and visual review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/generate-image.png)
 
-*A visual brief and optional reference images lead to a model request, saved artwork, and visual review. [View the full-size workflow diagram](../images/generate-image.png).*
+*A visual brief and optional reference images lead to a model request, saved artwork, and visual review. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/generate-image.png).*
 
 ## Questions this skill can help you explore
 

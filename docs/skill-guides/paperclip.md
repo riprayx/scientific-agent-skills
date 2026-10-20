@@ -8,10 +8,10 @@ GXL Paperclip provides search and reading tools for biomedical papers and relate
 
 It is useful when a project explicitly uses Paperclip for literature retrieval or evidence extraction. The workflow separates database retrieval and source reading from model-generated summaries, so important claims can be checked against the underlying document.
 
-![GXL Paperclip workflow: From a source-scoped question to retrieved documents, verified passages, structured extraction, and line-pinned citations](../images/paperclip.png)
+![GXL Paperclip workflow: From a source-scoped question to retrieved documents, verified passages, structured extraction, and line-pinned citations](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paperclip.png)
 
 *From a source-scoped question to retrieved documents, verified passages, structured extraction, and line-pinned citations.
-[View the full-size workflow diagram](../images/paperclip.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/paperclip.png).*
 
 ## Questions this skill can help you explore
 

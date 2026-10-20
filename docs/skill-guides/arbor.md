@@ -6,9 +6,9 @@
 
 Research optimization often involves many plausible changes to a model, training procedure, or analysis artifact. Arbor keeps those ideas in a persistent hypothesis tree, connects each experiment to a versioned artifact, and records what the evidence supports. It is designed for work with repeatable evaluators and a clearly defined objective, including model training and benchmark experiments.
 
-![Hypotheses branch into isolated experiments, feed evidence back into a persistent tree, and face held-out comparison.](../images/arbor.png)
+![Hypotheses branch into isolated experiments, feed evidence back into a persistent tree, and face held-out comparison.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/arbor.png)
 
-*Hypotheses branch into isolated experiments, feed evidence back into a persistent tree, and face held-out comparison. [View the full-size workflow diagram](../images/arbor.png).*
+*Hypotheses branch into isolated experiments, feed evidence back into a persistent tree, and face held-out comparison. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/arbor.png).*
 
 ## Questions this skill can help you explore
 

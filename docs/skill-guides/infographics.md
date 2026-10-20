@@ -8,10 +8,10 @@ This skill creates raster infographics from a written brief, supplied facts, and
 
 The workflow combines image generation with model-assisted visual review and a bounded number of revisions. For a scientist, its main value is communication: the factual content should come from reviewed evidence, and the finished image still needs close inspection.
 
-![Infographics workflow: From a sourced communication brief to generated visual drafts, review notes, and a checked infographic](../images/infographics.png)
+![Infographics workflow: From a sourced communication brief to generated visual drafts, review notes, and a checked infographic](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/infographics.png)
 
 *From a sourced communication brief to generated visual drafts, review notes, and a checked infographic.
-[View the full-size workflow diagram](../images/infographics.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/infographics.png).*
 
 ## Questions this skill can help you explore
 

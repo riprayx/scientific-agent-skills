@@ -6,10 +6,10 @@
 
 The scikit-learn skill supports classification, regression, clustering, dimensionality reduction, and reusable machine-learning pipelines. It guides an assistant through preparing mixed data, comparing models, tuning parameters, and measuring performance. The workflow emphasizes keeping evaluation information out of training and making the intended generalization claim explicit.
 
-![Scikit-learn workflow: define a prediction task, split independent data, fit preprocessing within a pipeline, compare models, and evaluate held-out performance.](../images/scikit-learn.png)
+![Scikit-learn workflow: define a prediction task, split independent data, fit preprocessing within a pipeline, compare models, and evaluate held-out performance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-learn.png)
 
 *From research features and labels to a reproducible predictive-model comparison.
-[View the full-size workflow diagram](../images/scikit-learn.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scikit-learn.png).*
 
 ## Questions this skill can help you explore
 

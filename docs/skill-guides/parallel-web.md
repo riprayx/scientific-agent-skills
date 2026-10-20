@@ -8,10 +8,10 @@ This skill uses Parallel’s CLI for web search, URL extraction, research report
 
 For scientific work, the emphasis is on primary literature and authoritative institutional sources. Returned citations and field-level evidence provide a starting point for checking claims, not an automatic guarantee of correctness or comprehensive coverage.
 
-![Parallel Web Toolkit workflow: From a defined web-evidence task to an appropriate search or research operation, retained sources, checked fields, and scoped findings](../images/parallel-web.png)
+![Parallel Web Toolkit workflow: From a defined web-evidence task to an appropriate search or research operation, retained sources, checked fields, and scoped findings](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/parallel-web.png)
 
 *From a defined web-evidence task to an appropriate search or research operation, retained sources, checked fields, and scoped findings.
-[View the full-size workflow diagram](../images/parallel-web.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/parallel-web.png).*
 
 ## Questions this skill can help you explore
 

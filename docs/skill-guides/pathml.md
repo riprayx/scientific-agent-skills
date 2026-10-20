@@ -8,10 +8,10 @@ PathML supports research processing of whole-slide pathology and multiplex imagi
 
 The workflow pays particular attention to patient-level splits, physical calibration, tile coordinates, and model provenance. These details determine whether downstream comparisons are reproducible and whether an apparent result could instead reflect scanner, stain, or data-leakage artifacts.
 
-![PathML workflow: From deidentified slide manifests to bounded tiling, reviewed preprocessing, calibrated spatial data, model outputs, and provenance](../images/pathml.png)
+![PathML workflow: From deidentified slide manifests to bounded tiling, reviewed preprocessing, calibrated spatial data, model outputs, and provenance](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathml.png)
 
 *From deidentified slide manifests to bounded tiling, reviewed preprocessing, calibrated spatial data, model outputs, and provenance.
-[View the full-size workflow diagram](../images/pathml.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathml.png).*
 
 ## Questions this skill can help you explore
 

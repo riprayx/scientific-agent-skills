@@ -6,9 +6,9 @@
 
 DiffDock and DiffDock-L predict how a small molecule might sit relative to a protein structure and rank sampled poses using model confidence. This skill covers traceable input preparation, single-pair and batch inference, alternative receptor conformations, completion checks, and pose validation. It supports docking hypothesis generation rather than measurement of binding affinity or identification of confirmed active compounds.
 
-![Prepared protein and ligand inputs generate candidate poses that are checked for completion, chemistry, and structural plausibility.](../images/diffdock.png)
+![Prepared protein and ligand inputs generate candidate poses that are checked for completion, chemistry, and structural plausibility.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/diffdock.png)
 
-*Prepared protein and ligand inputs generate candidate poses that are checked for completion, chemistry, and structural plausibility. [View the full-size workflow diagram](../images/diffdock.png).*
+*Prepared protein and ligand inputs generate candidate poses that are checked for completion, chemistry, and structural plausibility. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/diffdock.png).*
 
 ## Questions this skill can help you explore
 

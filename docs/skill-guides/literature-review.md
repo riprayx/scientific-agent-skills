@@ -8,10 +8,10 @@ This skill guides systematic, scoping, and narrative literature reviews from que
 
 The workflow emphasizes what was searched, what was retrieved, and how decisions were made. Bundled utilities support record processing and document preparation; the scientific assessment remains a research activity requiring review.
 
-![Literature Review workflow: From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations](../images/literature-review.png)
+![Literature Review workflow: From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/literature-review.png)
 
 *From a defined review question and documented searches to screened studies, extracted evidence, synthesis, and checked citations.
-[View the full-size workflow diagram](../images/literature-review.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/literature-review.png).*
 
 ## Questions this skill can help you explore
 

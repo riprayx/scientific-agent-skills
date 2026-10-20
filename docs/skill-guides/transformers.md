@@ -6,10 +6,10 @@
 
 The Transformers skill supports loading and using Hugging Face models for text, vision, audio, and multimodal tasks. It guides tokenization or other preprocessing, pipeline inference, text generation, and Trainer-based fine-tuning. For scientific work, the emphasis is on preserving model identity and testing whether outputs are useful for the actual research task.
 
-![Transformers workflow: select a task and checkpoint, load compatible preprocessing, run inference or fine-tuning, evaluate held-out data, and preserve model and dataset revisions.](../images/transformers.png)
+![Transformers workflow: select a task and checkpoint, load compatible preprocessing, run inference or fine-tuning, evaluate held-out data, and preserve model and dataset revisions.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/transformers.png)
 
 *From a research modeling task to a reproducible pretrained-model workflow.
-[View the full-size workflow diagram](../images/transformers.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/transformers.png).*
 
 ## Questions this skill can help you explore
 

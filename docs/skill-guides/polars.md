@@ -6,9 +6,9 @@
 
 Polars is a table-processing library for selecting, filtering, joining, reshaping, and aggregating data. This skill helps an assistant express those operations as efficient query plans and adapt familiar pandas workflows. For scientists, its value is organizing measurements and metadata while checking that identifiers, missing values, grouping, and time order retain their intended meaning.
 
-![Research tables are loaded with explicit schemas, transformed through query expressions, checked, and exported as reproducible results.](../images/polars.png)
+![Research tables are loaded with explicit schemas, transformed through query expressions, checked, and exported as reproducible results.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/polars.png)
 
-*Build an efficient table workflow while preserving the meaning of each row and column. [View the full-size workflow diagram](../images/polars.png).*
+*Build an efficient table workflow while preserving the meaning of each row and column. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/polars.png).*
 
 ## Questions this skill can help you explore
 

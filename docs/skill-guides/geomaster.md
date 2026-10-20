@@ -6,9 +6,9 @@
 
 GeoMaster supports research that combines raster images, vector boundaries, terrain, spatial networks, and Earth-observation time series. It helps an assistant choose the relevant geospatial workflow while preserving the meaning of coordinates, pixels, units, and missing observations. Its references cover several languages and platforms, with local Python recipes for common raster tasks.
 
-![Geospatial sources are checked for provenance, coordinates, grid alignment, and masks before analysis and documented export.](../images/geomaster.png)
+![Geospatial sources are checked for provenance, coordinates, grid alignment, and masks before analysis and documented export.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geomaster.png)
 
-*Align the geography and measurement conventions before comparing landscapes or time points. [View the full-size workflow diagram](../images/geomaster.png).*
+*Align the geography and measurement conventions before comparing landscapes or time points. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geomaster.png).*
 
 ## Questions this skill can help you explore
 

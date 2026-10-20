@@ -6,9 +6,9 @@
 
 Dask extends familiar Python table and array workflows with partitioned computation and task scheduling. This skill helps choose between DataFrames, Arrays, Bags, and Futures, plan chunk sizes, run computations locally or on a cluster, and diagnose memory or scheduling problems. It is a computational scaling aid; the scientific analysis still needs a valid algorithm and study design.
 
-![Research computations are divided into bounded partitions or tasks, scheduled, monitored, and written to reusable outputs.](../images/dask.png)
+![Research computations are divided into bounded partitions or tasks, scheduled, monitored, and written to reusable outputs.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dask.png)
 
-*Research computations are divided into bounded partitions or tasks, scheduled, monitored, and written to reusable outputs. [View the full-size workflow diagram](../images/dask.png).*
+*Research computations are divided into bounded partitions or tasks, scheduled, monitored, and written to reusable outputs. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/dask.png).*
 
 ## Questions this skill can help you explore
 

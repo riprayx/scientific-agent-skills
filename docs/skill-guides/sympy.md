@@ -6,10 +6,10 @@
 
 The SymPy skill supports exact symbolic algebra, calculus, equation solving, linear algebra, physics expressions, and code or LaTeX generation. It helps an assistant retain mathematical structure before numerical evaluation. This is useful when a scientific derivation needs to be checked, simplified, documented, or converted into a reusable numerical function.
 
-![SymPy workflow: define symbols and assumptions, derive exact expressions, solve or simplify, verify in the original domain, and export mathematical or numerical forms.](../images/sympy.png)
+![SymPy workflow: define symbols and assumptions, derive exact expressions, solve or simplify, verify in the original domain, and export mathematical or numerical forms.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/sympy.png)
 
 *From a scientific equation to a checked symbolic derivation.
-[View the full-size workflow diagram](../images/sympy.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/sympy.png).*
 
 ## Questions this skill can help you explore
 

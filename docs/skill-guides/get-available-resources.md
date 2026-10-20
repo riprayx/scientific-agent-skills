@@ -6,9 +6,9 @@
 
 A workstation or cluster may report more hardware than an individual analysis is allowed to use. This skill inspects CPU, memory, storage, scheduler, container, and accelerator information and turns the observations into a conservative planning snapshot. It helps size workers and memory budgets before a substantial local workload, without running a benchmark or launching the analysis.
 
-![Read-only resource observations are reconciled with process and allocation limits to produce a conservative workload plan.](../images/get-available-resources.png)
+![Read-only resource observations are reconciled with process and allocation limits to produce a conservative workload plan.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/get-available-resources.png)
 
-*Separate visible hardware from effective limits before choosing how much work to run. [View the full-size workflow diagram](../images/get-available-resources.png).*
+*Separate visible hardware from effective limits before choosing how much work to run. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/get-available-resources.png).*
 
 ## Questions this skill can help you explore
 

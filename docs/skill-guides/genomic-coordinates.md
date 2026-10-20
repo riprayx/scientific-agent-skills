@@ -6,9 +6,9 @@
 
 A genomic location is meaningful only with its coordinate convention and reference assembly. This skill helps convert interval conventions, audit format-specific coordinates, detect contig and assembly mismatches, and normalize simple variant representations against a reference. It focuses on the quiet errors that can leave files syntactically valid while changing which base or biological event an analysis describes.
 
-![Explicit assembly and coordinate conventions support interval audits, reference checks, and normalized variant comparisons.](../images/genomic-coordinates.png)
+![Explicit assembly and coordinate conventions support interval audits, reference checks, and normalized variant comparisons.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/genomic-coordinates.png)
 
-*Explicit assembly and coordinate conventions support interval audits, reference checks, and normalized variant comparisons. [View the full-size workflow diagram](../images/genomic-coordinates.png).*
+*Explicit assembly and coordinate conventions support interval audits, reference checks, and normalized variant comparisons. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/genomic-coordinates.png).*
 
 ## Questions this skill can help you explore
 

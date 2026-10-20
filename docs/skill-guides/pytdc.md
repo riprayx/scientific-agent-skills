@@ -6,10 +6,10 @@
 
 The PyTDC skill provides access to Therapeutics Data Commons datasets and benchmark conventions. It helps an assistant discover the installed task registry, plan data access, construct appropriate splits, and evaluate predictions. It also covers bounded molecular scoring, while keeping such scores distinct from experimental evidence about a compound.
 
-![PyTDC workflow: discover therapeutic datasets, review access and task definitions, choose a split, evaluate predictions, and retain benchmark provenance.](../images/pytdc.png)
+![PyTDC workflow: discover therapeutic datasets, review access and task definitions, choose a split, evaluate predictions, and retain benchmark provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pytdc.png)
 
 *From a therapeutic prediction question to a reproducible benchmark workflow.
-[View the full-size workflow diagram](../images/pytdc.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pytdc.png).*
 
 ## Questions this skill can help you explore
 

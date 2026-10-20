@@ -6,10 +6,10 @@
 
 The TileDB-VCF skill supports ingestion of indexed single-sample variant files into a cohort store, incremental sample additions, interval queries, statistics, and subset export. It helps an assistant manage data access without confusing storage behavior with variant calling or population inference. Local and cloud workflows have separate runtime and access requirements.
 
-![TileDB-VCF workflow: validate single-sample variant inputs, create a cohort store, ingest records, stream complete interval queries, and verify exported subsets.](../images/tiledbvcf.png)
+![TileDB-VCF workflow: validate single-sample variant inputs, create a cohort store, ingest records, stream complete interval queries, and verify exported subsets.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tiledbvcf.png)
 
 *From indexed variant files to a traceable cohort query workflow.
-[View the full-size workflow diagram](../images/tiledbvcf.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tiledbvcf.png).*
 
 ## Questions this skill can help you explore
 

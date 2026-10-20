@@ -8,10 +8,10 @@ Matchms supports importing, cleaning, and comparing tandem mass spectra. This sk
 
 It is useful in metabolomics and small-molecule research when spectral similarity is one line of evidence for annotation. The workflow keeps preprocessing and scoring choices visible, so a promising match can be reviewed chemically rather than accepted from a score alone.
 
-![Matchms workflow: From MS/MS spectra and metadata to consistent preprocessing, similarity scoring, ranked library candidates, and chemical review](../images/matchms.png)
+![Matchms workflow: From MS/MS spectra and metadata to consistent preprocessing, similarity scoring, ranked library candidates, and chemical review](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matchms.png)
 
 *From MS/MS spectra and metadata to consistent preprocessing, similarity scoring, ranked library candidates, and chemical review.
-[View the full-size workflow diagram](../images/matchms.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matchms.png).*
 
 ## Questions this skill can help you explore
 

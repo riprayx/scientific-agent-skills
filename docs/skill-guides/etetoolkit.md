@@ -6,9 +6,9 @@
 
 ETE Toolkit works with phylogenetic and other hierarchical trees after they have been inferred. This skill supports Newick and Nexus input, rooting and pruning, topology comparison, gene-tree event analysis, taxonomy queries, interactive exploration, and rendering. It helps preserve labels, support values, and branch lengths while making tree transformations and comparisons reproducible.
 
-![Existing trees are parsed, checked, transformed or compared, and annotated for interpretable visualization.](../images/etetoolkit.png)
+![Existing trees are parsed, checked, transformed or compared, and annotated for interpretable visualization.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/etetoolkit.png)
 
-*Existing trees are parsed, checked, transformed or compared, and annotated for interpretable visualization. [View the full-size workflow diagram](../images/etetoolkit.png).*
+*Existing trees are parsed, checked, transformed or compared, and annotated for interpretable visualization. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/etetoolkit.png).*
 
 ## Questions this skill can help you explore
 

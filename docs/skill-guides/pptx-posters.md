@@ -6,9 +6,9 @@
 
 This skill creates a one-slide PowerPoint poster from an explicit local specification of text, figures, sources, layout, and approvals. It is intended for projects that specifically need an editable PowerPoint deliverable. The workflow checks physical dimensions, figure resolution, layout, and package structure while keeping scientific authorship and final review with the researcher.
 
-![Approved poster content and local assets form a manifest that is checked, rendered into PowerPoint, and reviewed for layout, accessibility, and printing.](../images/pptx-posters.png)
+![Approved poster content and local assets form a manifest that is checked, rendered into PowerPoint, and reviewed for layout, accessibility, and printing.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pptx-posters.png)
 
-*Carry the same approved content from the poster specification to the final editable file. [View the full-size workflow diagram](../images/pptx-posters.png).*
+*Carry the same approved content from the poster specification to the final editable file. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pptx-posters.png).*
 
 ## Questions this skill can help you explore
 

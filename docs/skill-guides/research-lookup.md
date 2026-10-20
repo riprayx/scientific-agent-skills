@@ -6,10 +6,10 @@
 
 The research-lookup skill gathers external scholarly evidence and organizes it into references, study summaries, proposed claim-to-source links, and section briefs. It is designed for an explicit literature-gathering task rather than a casual factual question. The packet helps researchers examine supporting and conflicting evidence before incorporating it into a manuscript.
 
-![Research-lookup workflow: define the research context, search scholarly sources, retrieve source passages, organize evidence, and review claim support and coverage.](../images/research-lookup.png)
+![Research-lookup workflow: define the research context, search scholarly sources, retrieve source passages, organize evidence, and review claim support and coverage.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/research-lookup.png)
 
 *From a research question to an auditable manuscript evidence packet.
-[View the full-size workflow diagram](../images/research-lookup.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/research-lookup.png).*
 
 ## Questions this skill can help you explore
 

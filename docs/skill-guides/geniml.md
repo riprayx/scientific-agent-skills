@@ -6,9 +6,9 @@
 
 Geniml supports machine-learning and statistical workflows over genomic interval sets, including Region2Vec, scEmbed, and consensus universes. This skill emphasizes local validation and planning before training or inference. Its bundled helpers inspect inputs and compatibility without loading model checkpoints, invoking services, or executing training, so problems in assemblies and token vocabularies can be found early.
 
-![Interval files and universe definitions undergo local contract checks before a documented model or consensus workflow is planned.](../images/geniml.png)
+![Interval files and universe definitions undergo local contract checks before a documented model or consensus workflow is planned.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geniml.png)
 
-*Interval files and universe definitions undergo local contract checks before a documented model or consensus workflow is planned. [View the full-size workflow diagram](../images/geniml.png).*
+*Interval files and universe definitions undergo local contract checks before a documented model or consensus workflow is planned. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/geniml.png).*
 
 ## Questions this skill can help you explore
 

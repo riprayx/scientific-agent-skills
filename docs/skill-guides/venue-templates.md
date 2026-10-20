@@ -6,9 +6,9 @@
 
 Journal, conference, poster, and grant requirements vary by venue, track, year, and document type. This skill helps an assistant locate the governing instructions, choose an appropriate template, adapt supplied research content, and inspect the resulting document. Its bundled LaTeX files are drafting aids whose status must be distinguished from an official author kit.
 
-![An exact submission target leads to verified official instructions, a suitable template, document preparation, and mechanical and human format checks.](../images/venue-templates.png)
+![An exact submission target leads to verified official instructions, a suitable template, document preparation, and mechanical and human format checks.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/venue-templates.png)
 
-*Connect every formatting decision to the intended venue, document type, and submission stage. [View the full-size workflow diagram](../images/venue-templates.png).*
+*Connect every formatting decision to the intended venue, document type, and submission stage. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/venue-templates.png).*
 
 ## Questions this skill can help you explore
 

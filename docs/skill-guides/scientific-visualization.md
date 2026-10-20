@@ -6,10 +6,10 @@
 
 The scientific-visualization skill guides figure design and review using plotting tools such as Matplotlib, Seaborn, and Plotly. It covers visual encoding, multi-panel composition, accessible labeling, export planning, and inspection of the delivered files. The priority is a truthful figure whose appearance helps readers understand the evidence.
 
-![Scientific-visualization workflow: define variables and destination, choose honest encodings, display uncertainty and missingness, export explicitly, and inspect the delivered figure.](../images/scientific-visualization.png)
+![Scientific-visualization workflow: define variables and destination, choose honest encodings, display uncertainty and missingness, export explicitly, and inspect the delivered figure.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-visualization.png)
 
 *From research data to readable, traceable scientific figures.
-[View the full-size workflow diagram](../images/scientific-visualization.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/scientific-visualization.png).*
 
 ## Questions this skill can help you explore
 

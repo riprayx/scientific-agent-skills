@@ -6,9 +6,9 @@
 
 BioServices provides Python access to multiple biological resources, including protein annotations, pathways, functional terms, chemical cross-references, and associations. This skill helps assemble data across services such as UniProt, KEGG, QuickGO, ChEMBL, and UniChem. It emphasizes the differences between their response formats and evidence models so integration does not silently change the scientific meaning.
 
-![Stable biological identifiers connect service queries, evidence-aware mappings, and traceable annotation tables.](../images/bioservices.png)
+![Stable biological identifiers connect service queries, evidence-aware mappings, and traceable annotation tables.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bioservices.png)
 
-*Stable biological identifiers connect service queries, evidence-aware mappings, and traceable annotation tables. [View the full-size workflow diagram](../images/bioservices.png).*
+*Stable biological identifiers connect service queries, evidence-aware mappings, and traceable annotation tables. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bioservices.png).*
 
 ## Questions this skill can help you explore
 

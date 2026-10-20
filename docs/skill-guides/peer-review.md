@@ -8,10 +8,10 @@ This skill supports an accountable human reviewer examining an authorized manusc
 
 Its local templates and checks make the review process more explicit, but do not evaluate scientific merit automatically. The intended output is a working draft that the responsible reviewer reads, verifies, and revises using their own expertise and the venue’s policies.
 
-![Peer Review workflow: From authorized review scope and available evidence to claim checks, methodological assessment, actionable comments, and a verified human review draft](../images/peer-review.png)
+![Peer Review workflow: From authorized review scope and available evidence to claim checks, methodological assessment, actionable comments, and a verified human review draft](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/peer-review.png)
 
 *From authorized review scope and available evidence to claim checks, methodological assessment, actionable comments, and a verified human review draft.
-[View the full-size workflow diagram](../images/peer-review.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/peer-review.png).*
 
 ## Questions this skill can help you explore
 

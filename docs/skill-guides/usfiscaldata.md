@@ -6,9 +6,9 @@
 
 This skill helps an assistant query the U.S. Treasury Fiscal Data API for debt, revenue, expenditure, securities, interest, and reporting exchange-rate datasets. It supports selecting records, handling paginated responses, and turning returned values into analysis-ready tables. The focus is accurate retrieval and interpretation of the published data rather than financial forecasting or investment decisions.
 
-![A fiscal research question is mapped to a documented dataset, filtered and paginated, then checked against units, dates, and table structure.](../images/usfiscaldata.png)
+![A fiscal research question is mapped to a documented dataset, filtered and paginated, then checked against units, dates, and table structure.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/usfiscaldata.png)
 
-*Preserve the fiscal meaning of each record as it moves from the source API to an analysis table. [View the full-size workflow diagram](../images/usfiscaldata.png).*
+*Preserve the fiscal meaning of each record as it moves from the source API to an analysis table. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/usfiscaldata.png).*
 
 ## Questions this skill can help you explore
 

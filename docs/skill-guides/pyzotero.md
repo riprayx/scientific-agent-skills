@@ -6,10 +6,10 @@
 
 The Pyzotero skill helps an assistant work with Zotero references, collections, tags, and attachments through its Python client. It supports finding existing literature records, exporting citations, and preparing or applying requested library updates. The workflow retains item identifiers and checks individual outcomes so a large library operation remains understandable.
 
-![Pyzotero workflow: select a Zotero library, retrieve references, inspect bibliographic metadata, organize or export items, and verify requested changes.](../images/pyzotero.png)
+![Pyzotero workflow: select a Zotero library, retrieve references, inspect bibliographic metadata, organize or export items, and verify requested changes.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyzotero.png)
 
 *From a reference library to organized records and reusable citations.
-[View the full-size workflow diagram](../images/pyzotero.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pyzotero.png).*
 
 ## Tasks this skill can help you complete
 

@@ -8,10 +8,10 @@ This skill queries public GenSpectrum LAPIS deployments to examine pathogen line
 
 The workflow is for descriptive surveillance research. It keeps the submitted-sequence dataset distinct from the infections or cases in the wider population, and it preserves the filters and retrieval snapshot needed to understand each result.
 
-![Pathogen Variant Surveillance workflow: From an identified public database and surveillance scope to nomenclature checks, reporting-delay review, descriptive proportions, and saved provenance](../images/pathogen-variant-surveillance.png)
+![Pathogen Variant Surveillance workflow: From an identified public database and surveillance scope to nomenclature checks, reporting-delay review, descriptive proportions, and saved provenance](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathogen-variant-surveillance.png)
 
 *From an identified public database and surveillance scope to nomenclature checks, reporting-delay review, descriptive proportions, and saved provenance.
-[View the full-size workflow diagram](../images/pathogen-variant-surveillance.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pathogen-variant-surveillance.png).*
 
 ## Questions this skill can help you explore
 

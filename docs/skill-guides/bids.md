@@ -6,9 +6,9 @@
 
 BIDS supplies conventions for file names, directory layout, and metadata across supported imaging, electrophysiology, and related modalities. This skill helps convert and organize raw data, query a dataset with PyBIDS, write sidecars and events files, validate compliance, and describe derived products. Its goal is an interpretable dataset whose structure supports reproducible downstream analysis.
 
-![Acquisition files become an organized dataset with explicit metadata, validated structure, and discoverable derivatives.](../images/bids.png)
+![Acquisition files become an organized dataset with explicit metadata, validated structure, and discoverable derivatives.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bids.png)
 
-*Acquisition files become an organized dataset with explicit metadata, validated structure, and discoverable derivatives. [View the full-size workflow diagram](../images/bids.png).*
+*Acquisition files become an organized dataset with explicit metadata, validated structure, and discoverable derivatives. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/bids.png).*
 
 ## Questions this skill can help you explore
 

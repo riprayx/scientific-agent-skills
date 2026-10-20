@@ -6,9 +6,9 @@
 
 Datamol simplifies common cheminformatics tasks while returning native RDKit molecular objects. This skill covers molecular parsing, standardization, descriptors, fingerprints, similarity, clustering, scaffold analysis, conformer generation, and visualization. It helps a researcher assemble an auditable molecular-data workflow without obscuring the chemical choices that influence downstream comparisons.
 
-![Molecular records pass through reviewed preparation into descriptors, similarity groups, scaffolds, and visual inspection.](../images/datamol.png)
+![Molecular records pass through reviewed preparation into descriptors, similarity groups, scaffolds, and visual inspection.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/datamol.png)
 
-*Molecular records pass through reviewed preparation into descriptors, similarity groups, scaffolds, and visual inspection. [View the full-size workflow diagram](../images/datamol.png).*
+*Molecular records pass through reviewed preparation into descriptors, similarity groups, scaffolds, and visual inspection. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/datamol.png).*
 
 ## Questions this skill can help you explore
 

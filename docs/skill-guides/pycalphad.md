@@ -6,9 +6,9 @@
 
 The pycalphad skill uses a thermodynamic database to calculate equilibrium phase fractions and compositions. It guides an assistant through explicit composition and temperature definitions, numerical checks, and exports that retain the database's provenance. This makes it useful for examining alloy phase stability and explaining what an equilibrium calculation actually assumes.
 
-![pycalphad workflow for inspecting a thermodynamic database, selecting phases and mole-based conditions, and checking calculated equilibria.](../images/pycalphad.png)
+![pycalphad workflow for inspecting a thermodynamic database, selecting phases and mole-based conditions, and checking calculated equilibria.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pycalphad.png)
 
-*Calculate equilibrium phase fractions and compositions while retaining database provenance and mass-balance checks. [View the full-size workflow diagram](../images/pycalphad.png).*
+*Calculate equilibrium phase fractions and compositions while retaining database provenance and mass-balance checks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pycalphad.png).*
 
 ## Questions this skill can help you explore
 

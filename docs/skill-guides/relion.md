@@ -6,9 +6,9 @@
 
 The RELION skill guides a bounded single-particle workflow beginning with extracted, CTF-annotated particles and an initial three-dimensional reference. It checks acquisition metadata and particle stacks, supports gold-standard refinement, and reviews independent half maps and soft-mask postprocessing. It keeps reconstruction execution separate from the biological interpretation of a map.
 
-![RELION workflow for validating extracted particles, refining independent cryo-EM half maps, reviewing a soft mask, and checking postprocessing.](../images/relion.png)
+![RELION workflow for validating extracted particles, refining independent cryo-EM half maps, reviewing a soft mask, and checking postprocessing.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/relion.png)
 
-*Trace a selected particle population through refinement and map-quality review without losing half-map independence. [View the full-size workflow diagram](../images/relion.png).*
+*Trace a selected particle population through refinement and map-quality review without losing half-map independence. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/relion.png).*
 
 ## Questions this skill can help you explore
 

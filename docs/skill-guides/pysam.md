@@ -6,10 +6,10 @@
 
 The pysam skill helps an assistant work directly with sequencing alignments, variant calls, reference sequences, and indexed genomic tables. It is useful for focused region queries, streaming quality summaries, and preparing carefully filtered files. The guidance makes conventions visible so that a technically successful query does not silently examine the wrong bases or reads.
 
-![pysam workflow: identify genomic file formats and indexes, confirm coordinates and references, inspect or filter records, and preserve headers and provenance.](../images/pysam.png)
+![pysam workflow: identify genomic file formats and indexes, confirm coordinates and references, inspect or filter records, and preserve headers and provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pysam.png)
 
 *From genomic files to documented queries and derivatives.
-[View the full-size workflow diagram](../images/pysam.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pysam.png).*
 
 ## Questions this skill can help you explore
 

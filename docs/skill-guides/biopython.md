@@ -6,9 +6,9 @@
 
 Biopython connects common molecular-biology tasks through a collection of parsers and scientific objects. This skill covers sequence manipulation, FASTA and GenBank records, alignments, database retrieval, BLAST results, macromolecular structures, and phylogenetic trees. It helps a research assistant combine those operations while keeping identifiers, annotations, and external-tool assumptions visible.
 
-![Biological records are parsed, transformed, compared, and exported with their annotations and provenance.](../images/biopython.png)
+![Biological records are parsed, transformed, compared, and exported with their annotations and provenance.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/biopython.png)
 
-*Biological records are parsed, transformed, compared, and exported with their annotations and provenance. [View the full-size workflow diagram](../images/biopython.png).*
+*Biological records are parsed, transformed, compared, and exported with their annotations and provenance. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/biopython.png).*
 
 ## Questions this skill can help you explore
 

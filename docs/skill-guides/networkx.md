@@ -8,10 +8,10 @@ NetworkX creates and analyzes networks in Python. This skill helps a research as
 
 Applications include biological interactions, citation networks, transport systems, and relationships among experimental entities. The central step is deciding what nodes, edges, direction, and weights mean, because those choices determine the interpretation of every algorithm.
 
-![NetworkX workflow: From defined entities and relationships to a checked graph, structural analysis, reproducible visualization, and exported network data](../images/networkx.png)
+![NetworkX workflow: From defined entities and relationships to a checked graph, structural analysis, reproducible visualization, and exported network data](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/networkx.png)
 
 *From defined entities and relationships to a checked graph, structural analysis, reproducible visualization, and exported network data.
-[View the full-size workflow diagram](../images/networkx.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/networkx.png).*
 
 ## Questions this skill can help you explore
 

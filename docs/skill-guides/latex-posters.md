@@ -8,10 +8,10 @@ This skill guides a research assistant through designing and compiling a confere
 
 It is useful for adapting a manuscript, updating an institutional template, or repairing a poster that compiles but does not print cleanly. The workflow ends with inspection of the rendered PDF, because source code and compiler logs cannot reveal every layout problem.
 
-![LaTeX Research Posters workflow: From scientific content and venue dimensions to a LaTeX layout, compiled poster, visual inspection, and print preflight](../images/latex-posters.png)
+![LaTeX Research Posters workflow: From scientific content and venue dimensions to a LaTeX layout, compiled poster, visual inspection, and print preflight](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/latex-posters.png)
 
 *From scientific content and venue dimensions to a LaTeX layout, compiled poster, visual inspection, and print preflight.
-[View the full-size workflow diagram](../images/latex-posters.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/latex-posters.png).*
 
 ## Questions this skill can help you explore
 

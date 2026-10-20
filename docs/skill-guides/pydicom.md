@@ -6,10 +6,10 @@
 
 The pydicom skill helps an assistant read medical-imaging datasets, inspect their metadata, plan pixel decoding, and produce bounded local derivatives. It is useful when a research collection contains different image encodings or when a file conversion needs careful verification. Its scope is file processing rather than clinical image interpretation or PACS operation.
 
-![pydicom workflow: inventory local DICOM files, inspect transfer syntaxes and frames, process bounded pixel data, and audit derived files.](../images/pydicom.png)
+![pydicom workflow: inventory local DICOM files, inspect transfer syntaxes and frames, process bounded pixel data, and audit derived files.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pydicom.png)
 
 *From heterogeneous DICOM files to reviewed research derivatives.
-[View the full-size workflow diagram](../images/pydicom.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pydicom.png).*
 
 ## Questions this skill can help you explore
 

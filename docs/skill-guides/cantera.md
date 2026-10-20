@@ -6,9 +6,9 @@
 
 This Cantera skill focuses on closed, adiabatic, homogeneous ideal-gas reactors at constant volume or constant pressure. It uses a specified kinetic mechanism to calculate temperature and species histories and a precisely defined temperature-based ignition delay. The bundled workflow includes conservation checks and deliberate numerical refinements, making assumptions and numerical limitations part of the reported result.
 
-![Cantera workflow for specifying a reaction mechanism and initial state, simulating ignition, and checking numerical sensitivity.](../images/cantera.png)
+![Cantera workflow for specifying a reaction mechanism and initial state, simulating ignition, and checking numerical sensitivity.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cantera.png)
 
-*Follow a reacting-system calculation from physical assumptions to a reviewed ignition-delay estimate. [View the full-size workflow diagram](../images/cantera.png).*
+*Follow a reacting-system calculation from physical assumptions to a reviewed ignition-delay estimate. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/cantera.png).*
 
 ## Questions this skill can help you explore
 

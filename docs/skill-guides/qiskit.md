@@ -6,10 +6,10 @@
 
 The Qiskit skill guides circuit construction, observable definition, local simulation, backend-aware compilation, and IBM Quantum Runtime workflows. It helps an assistant connect the scientific quantity of interest to the correct execution interface and result interpretation. Local and noisy simulations can support preparation before any separately configured quantum-hardware workload.
 
-![Qiskit workflow: map a problem to a circuit, choose observables, transpile for a target, execute a primitive, and interpret samples or expectation values.](../images/qiskit.png)
+![Qiskit workflow: map a problem to a circuit, choose observables, transpile for a target, execute a primitive, and interpret samples or expectation values.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qiskit.png)
 
 *From a quantum-circuit question to target-aware execution and analysis.
-[View the full-size workflow diagram](../images/qiskit.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/qiskit.png).*
 
 ## Questions this skill can help you explore
 

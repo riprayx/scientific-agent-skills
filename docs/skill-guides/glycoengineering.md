@@ -6,9 +6,9 @@
 
 Glycosylation can affect protein behavior, but a sequence motif, a prediction, an occupied site, and a particular glycan structure are different kinds of evidence. This skill helps an assistant keep those distinctions clear while scanning protein sequences, reviewing glycan records, preparing prediction workflows, and evaluating possible structural shielding. Its main focus is secretory-pathway N-glycosylation and mucin-type O-GalNAc glycosylation.
 
-![Protein sequence and topology are mapped to candidate sites, prediction or experimental evidence, and reviewed engineering proposals.](../images/glycoengineering.png)
+![Protein sequence and topology are mapped to candidate sites, prediction or experimental evidence, and reviewed engineering proposals.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/glycoengineering.png)
 
-*Carry residue identity and evidence strength through each glycosylation decision. [View the full-size workflow diagram](../images/glycoengineering.png).*
+*Carry residue identity and evidence strength through each glycosylation decision. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/glycoengineering.png).*
 
 ## Questions this skill can help you explore
 

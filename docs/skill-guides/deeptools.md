@@ -6,9 +6,9 @@
 
 deepTools supports sequencing quality control, normalized coverage tracks, sample comparisons, and heatmaps or profiles around genomic features. This skill helps choose the appropriate tools and normalization for ChIP-seq, ATAC-seq, RNA-seq, and related assays. It connects input validation to visualization so a figure’s scale, regions, and preprocessing choices remain scientifically interpretable.
 
-![Validated alignments and genomic regions lead to quality checks, normalized coverage, and labeled profiles or heatmaps.](../images/deeptools.png)
+![Validated alignments and genomic regions lead to quality checks, normalized coverage, and labeled profiles or heatmaps.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deeptools.png)
 
-*Validated alignments and genomic regions lead to quality checks, normalized coverage, and labeled profiles or heatmaps. [View the full-size workflow diagram](../images/deeptools.png).*
+*Validated alignments and genomic regions lead to quality checks, normalized coverage, and labeled profiles or heatmaps. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/deeptools.png).*
 
 ## Questions this skill can help you explore
 

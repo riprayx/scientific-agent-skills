@@ -6,9 +6,9 @@
 
 DepMap combines cancer model annotations with genetic perturbation, molecular, and drug-screen data. This skill helps retrieve a specified release, join records at the correct model or condition level, interpret Chronos gene effects, and examine prespecified biomarker associations or co-essentiality. It is a hypothesis-generation workflow for cancer research, with statistical and identifier checks built into the analysis.
 
-![A pinned DepMap release is mapped to comparable cancer models for dependency and biomarker hypothesis testing.](../images/depmap.png)
+![A pinned DepMap release is mapped to comparable cancer models for dependency and biomarker hypothesis testing.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/depmap.png)
 
-*A pinned DepMap release is mapped to comparable cancer models for dependency and biomarker hypothesis testing. [View the full-size workflow diagram](../images/depmap.png).*
+*A pinned DepMap release is mapped to comparable cancer models for dependency and biomarker hypothesis testing. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/depmap.png).*
 
 ## Questions this skill can help you explore
 

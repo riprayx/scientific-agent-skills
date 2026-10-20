@@ -6,9 +6,9 @@
 
 This skill structures qualitative scenario analysis around a scientific decision: what could change, why it might matter, and what evidence would justify a response. It explores favorable, reference, adverse, disruptive, alternative, and downstream scenarios without treating them as predictions. The output is a comparison of assumptions, consequences, and proposed actions for research planning.
 
-![A bounded research decision is examined through distinct scenarios, an evidence ledger, action comparisons, and observable decision triggers.](../images/what-if-oracle.png)
+![A bounded research decision is examined through distinct scenarios, an evidence ledger, action comparisons, and observable decision triggers.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/what-if-oracle.png)
 
-*Turn uncertain research conditions into explicit assumptions, checks, and contingency choices. [View the full-size workflow diagram](../images/what-if-oracle.png).*
+*Turn uncertain research conditions into explicit assumptions, checks, and contingency choices. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/what-if-oracle.png).*
 
 ## Questions this skill can help you explore
 

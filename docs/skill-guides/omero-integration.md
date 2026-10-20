@@ -8,10 +8,10 @@ OMERO organizes microscopy images, metadata, annotations, and regions of interes
 
 Its bundled utilities emphasize explicit object IDs, group context, bounded read-only retrieval, and local planning. That makes it useful for preparing an analysis inventory or reproducible metadata handoff before deciding whether pixels or original files are needed.
 
-![OMERO Integration workflow: From an explicit server and object scope to validated connection settings, bounded metadata retrieval, transfer plans, and reviewed results](../images/omero-integration.png)
+![OMERO Integration workflow: From an explicit server and object scope to validated connection settings, bounded metadata retrieval, transfer plans, and reviewed results](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/omero-integration.png)
 
 *From an explicit server and object scope to validated connection settings, bounded metadata retrieval, transfer plans, and reviewed results.
-[View the full-size workflow diagram](../images/omero-integration.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/omero-integration.png).*
 
 ## Questions this skill can help you explore
 

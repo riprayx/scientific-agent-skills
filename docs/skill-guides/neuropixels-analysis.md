@@ -8,10 +8,10 @@ This skill guides Neuropixels analysis with SpikeInterface, from loading recordi
 
 It supports common acquisition formats and multiple sorting approaches. Automated thresholds, optional models, and visual review provide complementary evidence, while uncertain units remain available for researcher judgment.
 
-![Neuropixels Analysis workflow: From calibrated Neuropixels recordings to preprocessing, motion review, spike sorting, unit metrics, curation, and export](../images/neuropixels-analysis.png)
+![Neuropixels Analysis workflow: From calibrated Neuropixels recordings to preprocessing, motion review, spike sorting, unit metrics, curation, and export](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/neuropixels-analysis.png)
 
 *From calibrated Neuropixels recordings to preprocessing, motion review, spike sorting, unit metrics, curation, and export.
-[View the full-size workflow diagram](../images/neuropixels-analysis.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/neuropixels-analysis.png).*
 
 ## Questions this skill can help you explore
 

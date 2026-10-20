@@ -8,10 +8,10 @@ This skill helps a research assistant review and structure numerical work in MAT
 
 The bundled helpers focus on local inspection and planning: they can examine source text, inventory files, validate declared project requirements, and prepare execution arguments. They do not silently run MATLAB or Octave analyses or establish that the required licensed products are available.
 
-![MATLAB and GNU Octave workflow: From numerical source and declared runtime requirements to code review, compatibility planning, file inventories, and reproducibility records](../images/matlab.png)
+![MATLAB and GNU Octave workflow: From numerical source and declared runtime requirements to code review, compatibility planning, file inventories, and reproducibility records](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matlab.png)
 
 *From numerical source and declared runtime requirements to code review, compatibility planning, file inventories, and reproducibility records.
-[View the full-size workflow diagram](../images/matlab.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/matlab.png).*
 
 ## Questions this skill can help you explore
 

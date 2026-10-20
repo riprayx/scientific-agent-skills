@@ -8,10 +8,10 @@ This skill helps a research assistant examine a slow scientific Python workload,
 
 The purpose is an evidence-based optimization: keep the scientific and numerical contract intact, measure representative workloads, and retain the GPU path only when it improves the metric that matters.
 
-![GPU Optimization for Scientific Python workflow: From a measured CPU baseline to a suitable GPU implementation, numerical comparison, synchronized benchmarks, and a documented decision](../images/optimize-for-gpu.png)
+![GPU Optimization for Scientific Python workflow: From a measured CPU baseline to a suitable GPU implementation, numerical comparison, synchronized benchmarks, and a documented decision](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/optimize-for-gpu.png)
 
 *From a measured CPU baseline to a suitable GPU implementation, numerical comparison, synchronized benchmarks, and a documented decision.
-[View the full-size workflow diagram](../images/optimize-for-gpu.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/optimize-for-gpu.png).*
 
 ## Questions this skill can help you explore
 

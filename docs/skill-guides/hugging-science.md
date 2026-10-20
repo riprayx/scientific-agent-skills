@@ -6,9 +6,9 @@
 
 Hugging Science is a curated catalog of scientific machine-learning datasets, models, methodology posts, and interactive demonstrations. This skill helps an assistant discover candidates across scientific domains and inspect the underlying resources before using them. It connects discovery to practical questions about data modality, licensing, access, model interfaces, and reproducible evaluation.
 
-![A scientific question is matched to catalog resources, which are checked for suitability, access, runtime, and reproducible use.](../images/hugging-science.png)
+![A scientific question is matched to catalog resources, which are checked for suitability, access, runtime, and reproducible use.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hugging-science.png)
 
-*Move from a curated pointer to an independently assessed scientific resource. [View the full-size workflow diagram](../images/hugging-science.png).*
+*Move from a curated pointer to an independently assessed scientific resource. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/hugging-science.png).*
 
 ## Questions this skill can help you explore
 

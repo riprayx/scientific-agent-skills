@@ -6,10 +6,10 @@
 
 The TimesFM forecasting skill uses pretrained models to forecast temporal measurements without task-specific model training. It covers regular-grid preparation, point and quantile outputs, supported covariates, and held-out evaluation. The workflow separates package versions from checkpoint versions and makes checkpoint terms, resource needs, and evaluation assumptions explicit.
 
-![TimesFM workflow: establish a regular time grid and forecast origin, select a checkpoint, generate forecasts, validate quantiles, and compare rolling-origin accuracy with baselines.](../images/timesfm-forecasting.png)
+![TimesFM workflow: establish a regular time grid and forecast origin, select a checkpoint, generate forecasts, validate quantiles, and compare rolling-origin accuracy with baselines.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/timesfm-forecasting.png)
 
 *From an ordered measurement series to evaluated point and quantile forecasts.
-[View the full-size workflow diagram](../images/timesfm-forecasting.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/timesfm-forecasting.png).*
 
 ## Questions this skill can help you explore
 

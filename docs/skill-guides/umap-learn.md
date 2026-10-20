@@ -6,9 +6,9 @@
 
 UMAP represents complex data in fewer dimensions, often as a two- or three-dimensional plot. This skill helps an assistant choose preprocessing, a similarity measure, and embedding settings, then check whether the resulting picture supports the intended exploratory use. It also covers label-guided embeddings, transformation of new data, and selected advanced UMAP workflows.
 
-![A checked feature matrix is preprocessed, embedded with an appropriate metric, and examined for neighborhood retention and parameter sensitivity.](../images/umap-learn.png)
+![A checked feature matrix is preprocessed, embedded with an appropriate metric, and examined for neighborhood retention and parameter sensitivity.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/umap-learn.png)
 
-*Use the map to explore patterns while checking them against the original measurements. [View the full-size workflow diagram](../images/umap-learn.png).*
+*Use the map to explore patterns while checking them against the original measurements. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/umap-learn.png).*
 
 ## Questions this skill can help you explore
 

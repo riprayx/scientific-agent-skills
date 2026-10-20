@@ -6,10 +6,10 @@
 
 The Tamarind Bio skill helps an assistant discover hosted tools, inspect their input schemas, validate job settings, submit work, and retrieve results. The catalog includes structure prediction, protein design, docking, molecular dynamics, and related workflows. Its role is to manage a scientifically specified calculation and preserve the context needed to interpret its outputs.
 
-![Tamarind Bio workflow: discover a hosted tool, inspect its schema, validate inputs, submit and monitor a job, and review downloaded scientific outputs.](../images/tamarind.png)
+![Tamarind Bio workflow: discover a hosted tool, inspect its schema, validate inputs, submit and monitor a job, and review downloaded scientific outputs.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tamarind.png)
 
 *From a selected molecular-modeling task to inspected hosted results.
-[View the full-size workflow diagram](../images/tamarind.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/tamarind.png).*
 
 ## Questions this skill can help you explore
 

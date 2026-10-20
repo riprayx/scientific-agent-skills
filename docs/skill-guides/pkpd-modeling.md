@@ -6,9 +6,9 @@
 
 This skill supports exploratory pharmacokinetic and pharmacodynamic research: summarizing exposure, fitting individual concentration-time models, simulating supported regimens, and examining exposure-response relationships. It also helps prepare population-model datasets and orient more specialized analyses. The emphasis is on measurement conventions, study design, and whether the data support the parameters being estimated.
 
-![Concentration-time data and dosing history pass through unit and design checks, exposure analysis, model fitting, simulation, and diagnostic review.](../images/pkpd-modeling.png)
+![Concentration-time data and dosing history pass through unit and design checks, exposure analysis, model fitting, simulation, and diagnostic review.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pkpd-modeling.png)
 
-*Connect exposure calculations and model predictions to their measurement and study assumptions. [View the full-size workflow diagram](../images/pkpd-modeling.png).*
+*Connect exposure calculations and model predictions to their measurement and study assumptions. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pkpd-modeling.png).*
 
 ## Questions this skill can help you explore
 

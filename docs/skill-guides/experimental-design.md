@@ -6,9 +6,9 @@
 
 This skill helps turn a scientific question into a study design with interpretable comparisons. It covers randomization, blocking, stratification, factorial and response-surface designs, repeated measures, split plots, and practical allocation schedules. Its focus is the structure of an experiment: what is varied, what is randomized, and which observations count as independent replication.
 
-![A research question and experimental constraints become a reproducible design, allocation schedule, and analysis plan.](../images/experimental-design.png)
+![A research question and experimental constraints become a reproducible design, allocation schedule, and analysis plan.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/experimental-design.png)
 
-*A research question and experimental constraints become a reproducible design, allocation schedule, and analysis plan. [View the full-size workflow diagram](../images/experimental-design.png).*
+*A research question and experimental constraints become a reproducible design, allocation schedule, and analysis plan. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/experimental-design.png).*
 
 ## Questions this skill can help you explore
 

@@ -8,10 +8,10 @@ Modal provides on-demand cloud execution for Python workloads, including GPU tas
 
 For a scientific project, it is useful when local hardware is insufficient or many independent tasks can run in parallel. It organizes the compute environment and execution mechanics; the scientific method and result-validation criteria still come from the analysis itself.
 
-![Modal workflow: From Python code and a container environment to configured cloud compute, persistent artifacts, monitored execution, and result verification](../images/modal.png)
+![Modal workflow: From Python code and a container environment to configured cloud compute, persistent artifacts, monitored execution, and result verification](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/modal.png)
 
 *From Python code and a container environment to configured cloud compute, persistent artifacts, monitored execution, and result verification.
-[View the full-size workflow diagram](../images/modal.png).*
+[View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/modal.png).*
 
 ## Questions this skill can help you explore
 

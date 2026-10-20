@@ -6,9 +6,9 @@
 
 The Ginkgo Cloud Lab skill guides an assistant through the service's browser storefront, from choosing an assay to checking input templates, configuration, pricing, and order status. It covers documented protein expression and characterization services, RNA synthesis, and assay or target onboarding. Custom-workflow estimates help assess feasibility before a service is ordered.
 
-![A research objective is matched to a cloud laboratory protocol, configured with sample inputs, and reviewed before ordering and result interpretation.](../images/ginkgo-cloud-lab.png)
+![A research objective is matched to a cloud laboratory protocol, configured with sample inputs, and reviewed before ordering and result interpretation.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ginkgo-cloud-lab.png)
 
-*Connect the biological question, sample manifest, and requested readout before commissioning laboratory work. [View the full-size workflow diagram](../images/ginkgo-cloud-lab.png).*
+*Connect the biological question, sample manifest, and requested readout before commissioning laboratory work. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/ginkgo-cloud-lab.png).*
 
 ## Questions this skill can help you explore
 

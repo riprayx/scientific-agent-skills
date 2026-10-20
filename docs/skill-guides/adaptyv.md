@@ -6,9 +6,9 @@
 
 The Adaptyv skill helps a research assistant work with the Foundry service to characterize protein sequences experimentally. It connects target and assay selection with cost estimation, experiment drafts, laboratory status, and result retrieval. The supported workflow includes binding, affinity, expression, thermostability, fluorescence, epitope binning, and enzyme activity assays, subject to the service’s available experiment specifications.
 
-![Protein sequences move through assay planning, experiment review, laboratory execution, and result retrieval.](../images/adaptyv.png)
+![Protein sequences move through assay planning, experiment review, laboratory execution, and result retrieval.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/adaptyv.png)
 
-*Protein sequences move through assay planning, experiment review, laboratory execution, and result retrieval. [View the full-size workflow diagram](../images/adaptyv.png).*
+*Protein sequences move through assay planning, experiment review, laboratory execution, and result retrieval. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/adaptyv.png).*
 
 ## Questions this skill can help you explore
 

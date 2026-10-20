@@ -6,9 +6,9 @@
 
 The PyBaMM skill guides an assistant through electrochemical battery simulations and comparisons with measured cycling curves. It helps make the model's assumptions, parameter sources, and numerical accuracy visible, so a predicted voltage trace can be interpreted in the context of a particular cell and experiment.
 
-![PyBaMM workflow for selecting a cell parameterization and cycling protocol, running a model, and comparing solver and mesh sensitivity.](../images/pybamm.png)
+![PyBaMM workflow for selecting a cell parameterization and cycling protocol, running a model, and comparing solver and mesh sensitivity.](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pybamm.png)
 
-*Simulate a battery experiment with recorded parameters, protocol details, and numerical checks. [View the full-size workflow diagram](../images/pybamm.png).*
+*Simulate a battery experiment with recorded parameters, protocol details, and numerical checks. [View the full-size workflow diagram](https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/593377bb048752abb0152deab9fbb1083a6087df/docs/images/pybamm.png).*
 
 ## Questions this skill can help you explore
 
